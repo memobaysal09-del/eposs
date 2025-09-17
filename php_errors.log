@@ -1,0 +1,1802 @@
+[09-Sep-2025 00:26:24 Europe/Berlin] save_printer_settings Exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '// ESC/POS font numarası
+    company_name_size TINYINT DEFAULT 0, // ESC/POS...' at line 4
+[09-Sep-2025 00:31:29 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'options' in 'field list' in C:\xampp\htdocs\db.php:874
+Stack trace:
+#0 C:\xampp\htdocs\db.php(874): mysqli->prepare('INSERT INTO ord...')
+#1 {main}
+  thrown in C:\xampp\htdocs\db.php on line 874
+[09-Sep-2025 00:32:33 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'options' in 'field list' in C:\xampp\htdocs\db.php:874
+Stack trace:
+#0 C:\xampp\htdocs\db.php(874): mysqli->prepare('INSERT INTO ord...')
+#1 {main}
+  thrown in C:\xampp\htdocs\db.php on line 874
+[09-Sep-2025 00:32:46 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'options' in 'field list' in C:\xampp\htdocs\db.php:874
+Stack trace:
+#0 C:\xampp\htdocs\db.php(874): mysqli->prepare('INSERT INTO ord...')
+#1 {main}
+  thrown in C:\xampp\htdocs\db.php on line 874
+[09-Sep-2025 00:32:59 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'options' in 'field list' in C:\xampp\htdocs\db.php:874
+Stack trace:
+#0 C:\xampp\htdocs\db.php(874): mysqli->prepare('INSERT INTO ord...')
+#1 {main}
+  thrown in C:\xampp\htdocs\db.php on line 874
+[09-Sep-2025 00:33:11 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'options' in 'field list' in C:\xampp\htdocs\db.php:874
+Stack trace:
+#0 C:\xampp\htdocs\db.php(874): mysqli->prepare('INSERT INTO ord...')
+#1 {main}
+  thrown in C:\xampp\htdocs\db.php on line 874
+[09-Sep-2025 00:33:32 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'options' in 'field list' in C:\xampp\htdocs\db.php:874
+Stack trace:
+#0 C:\xampp\htdocs\db.php(874): mysqli->prepare('INSERT INTO ord...')
+#1 {main}
+  thrown in C:\xampp\htdocs\db.php on line 874
+[09-Sep-2025 00:35:35 Europe/Berlin] save_printer_settings Exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '// ESC/POS font numarası
+    company_name_size TINYINT DEFAULT 0, // ESC/POS...' at line 4
+[09-Sep-2025 00:37:33 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'options' in 'field list' in C:\xampp\htdocs\db.php:874
+Stack trace:
+#0 C:\xampp\htdocs\db.php(874): mysqli->prepare('INSERT INTO ord...')
+#1 {main}
+  thrown in C:\xampp\htdocs\db.php on line 874
+[09-Sep-2025 00:40:56 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'options' in 'field list' in C:\xampp\htdocs\db.php:874
+Stack trace:
+#0 C:\xampp\htdocs\db.php(874): mysqli->prepare('INSERT INTO ord...')
+#1 {main}
+  thrown in C:\xampp\htdocs\db.php on line 874
+[09-Sep-2025 00:43:09 Europe/Berlin] save_printer_settings Exception: Unknown column 'company_name_font' in 'field list'
+[09-Sep-2025 00:43:39 Europe/Berlin] save_printer_settings Exception: Unknown column 'company_name_font' in 'field list'
+[09-Sep-2025 00:45:47 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'options' in 'field list' in C:\xampp\htdocs\db.php:874
+Stack trace:
+#0 C:\xampp\htdocs\db.php(874): mysqli->prepare('INSERT INTO ord...')
+#1 {main}
+  thrown in C:\xampp\htdocs\db.php on line 874
+[09-Sep-2025 00:49:21 Europe/Berlin] URL Parameters - product_id: 1, table_id: 3
+[09-Sep-2025 00:49:21 Europe/Berlin] Product found: bella, Category ID: 1
+[09-Sep-2025 00:49:21 Europe/Berlin] Table found: 3
+[09-Sep-2025 00:49:21 Europe/Berlin] Duplicate records cleaned: 0
+[09-Sep-2025 00:49:21 Europe/Berlin] Product ID: 1, Category ID: 1 has 1 option groups (product + category)
+[09-Sep-2025 00:49:21 Europe/Berlin] Option Group: salad (ID: 1) with 2 options
+[09-Sep-2025 00:54:48 Europe/Berlin] URL Parameters - product_id: 1, table_id: 2
+[09-Sep-2025 00:54:48 Europe/Berlin] Product found: bella, Category ID: 1
+[09-Sep-2025 00:54:48 Europe/Berlin] Table found: 2
+[09-Sep-2025 00:54:48 Europe/Berlin] Duplicate records cleaned: 0
+[09-Sep-2025 00:54:48 Europe/Berlin] Product ID: 1, Category ID: 1 has 1 option groups (product + category)
+[09-Sep-2025 00:54:48 Europe/Berlin] Option Group: salad (ID: 1) with 2 options
+[09-Sep-2025 01:05:00 Europe/Berlin] URL Parameters - product_id: 1, table_id: 4
+[09-Sep-2025 01:05:00 Europe/Berlin] Product found: bella, Category ID: 1
+[09-Sep-2025 01:05:00 Europe/Berlin] Table found: 4
+[09-Sep-2025 01:05:00 Europe/Berlin] Duplicate records cleaned: 0
+[09-Sep-2025 01:05:00 Europe/Berlin] Product ID: 1, Category ID: 1 has 1 option groups (product + category)
+[09-Sep-2025 01:05:00 Europe/Berlin] Option Group: salad (ID: 1) with 2 options
+[09-Sep-2025 01:27:51 Europe/Berlin] URL Parameters - product_id: 1, table_id: 21
+[09-Sep-2025 01:27:51 Europe/Berlin] Product found: bella, Category ID: 1
+[09-Sep-2025 01:27:51 Europe/Berlin] Table found: 21
+[09-Sep-2025 01:27:51 Europe/Berlin] Duplicate records cleaned: 0
+[09-Sep-2025 01:27:51 Europe/Berlin] Product ID: 1, Category ID: 1 has 1 option groups (product + category)
+[09-Sep-2025 01:27:51 Europe/Berlin] Option Group: salad (ID: 1) with 2 options
+[09-Sep-2025 12:32:55 Europe/Berlin] URL Parameters - product_id: 1, table_id: 21
+[09-Sep-2025 12:32:55 Europe/Berlin] Product found: bella, Category ID: 1
+[09-Sep-2025 12:32:55 Europe/Berlin] Table found: 21
+[09-Sep-2025 12:32:55 Europe/Berlin] Duplicate records cleaned: 0
+[09-Sep-2025 12:32:55 Europe/Berlin] Product ID: 1, Category ID: 1 has 1 option groups (product + category)
+[09-Sep-2025 12:32:55 Europe/Berlin] Option Group: salad (ID: 1) with 2 options
+[09-Sep-2025 12:36:22 Europe/Berlin] save_printer_settings Error: The number of variables must match the number of parameters in the prepared statement
+[09-Sep-2025 21:32:32 Europe/Berlin] save_printer_settings Error: The number of variables must match the number of parameters in the prepared statement
+[09-Sep-2025 21:49:07 Europe/Berlin] URL Parameters - product_id: 1, table_id: 1
+[09-Sep-2025 21:49:07 Europe/Berlin] Product found: bella, Category ID: 1
+[09-Sep-2025 21:49:07 Europe/Berlin] Table found: 1
+[09-Sep-2025 21:49:07 Europe/Berlin] Duplicate records cleaned: 0
+[09-Sep-2025 21:49:07 Europe/Berlin] Product ID: 1, Category ID: 1 has 1 option groups (product + category)
+[09-Sep-2025 21:49:07 Europe/Berlin] Option Group: salad (ID: 1) with 2 options
+[09-Sep-2025 21:56:36 Europe/Berlin] save_printer_settings Error: The number of variables must match the number of parameters in the prepared statement
+[09-Sep-2025 21:58:57 Europe/Berlin] save_printer_settings Error: The number of variables must match the number of parameters in the prepared statement
+[09-Sep-2025 22:04:53 Europe/Berlin] save_printer_settings Exception: Unknown column 'printer_name' in 'field list'
+[09-Sep-2025 23:52:51 Europe/Berlin] [v0] USB Print Debug - Printer Name: TM-m30II_039347
+[09-Sep-2025 23:52:51 Europe/Berlin] [v0] USB Print Debug - Data Length: 331
+[09-Sep-2025 23:52:51 Europe/Berlin] [v0] USB Print Debug - Using file copy method
+[09-Sep-2025 23:52:51 Europe/Berlin] [v0] USB Print Debug - Temp file created: C:\Users\MEMET-PC\AppData\Local\Temp\theF90B.tmp
+[09-Sep-2025 23:52:51 Europe/Berlin] [v0] USB Print Debug - Trying path: TM-m30II_039347
+[09-Sep-2025 23:52:51 Europe/Berlin] [v0] USB Print Debug - Command: copy /B "C:\Users\MEMET-PC\AppData\Local\Temp\theF90B.tmp" "TM-m30II_039347" 2>&1
+[09-Sep-2025 23:52:51 Europe/Berlin] [v0] USB Print Debug - Return code: 0
+[09-Sep-2025 23:52:51 Europe/Berlin] [v0] USB Print Debug - Output:         1 file(s) copied.
+[09-Sep-2025 23:52:51 Europe/Berlin] [v0] USB Print Debug - SUCCESS with path: TM-m30II_039347
+[09-Sep-2025 23:52:51 Europe/Berlin] [v0] USB Print Debug - Final SUCCESS
+[09-Sep-2025 23:53:00 Europe/Berlin] [v0] USB Print Debug - Printer Name: TM-m30II_039347
+[09-Sep-2025 23:53:00 Europe/Berlin] [v0] USB Print Debug - Data Length: 331
+[09-Sep-2025 23:53:00 Europe/Berlin] [v0] USB Print Debug - Using file copy method
+[09-Sep-2025 23:53:00 Europe/Berlin] [v0] USB Print Debug - Temp file created: C:\Users\MEMET-PC\AppData\Local\Temp\the1D7C.tmp
+[09-Sep-2025 23:53:00 Europe/Berlin] [v0] USB Print Debug - Trying path: TM-m30II_039347
+[09-Sep-2025 23:53:00 Europe/Berlin] [v0] USB Print Debug - Command: copy /B "C:\Users\MEMET-PC\AppData\Local\Temp\the1D7C.tmp" "TM-m30II_039347" 2>&1
+[09-Sep-2025 23:53:00 Europe/Berlin] [v0] USB Print Debug - Return code: 0
+[09-Sep-2025 23:53:00 Europe/Berlin] [v0] USB Print Debug - Output:         1 file(s) copied.
+[09-Sep-2025 23:53:00 Europe/Berlin] [v0] USB Print Debug - SUCCESS with path: TM-m30II_039347
+[09-Sep-2025 23:53:00 Europe/Berlin] [v0] USB Print Debug - Final SUCCESS
+[09-Sep-2025 23:56:15 Europe/Berlin] [v0] USB Print Debug - Printer Name: TM-m30II_039347
+[09-Sep-2025 23:56:15 Europe/Berlin] [v0] USB Print Debug - Data Length: 331
+[09-Sep-2025 23:56:15 Europe/Berlin] [v0] USB Print Debug - Enhanced data length: 341
+[09-Sep-2025 23:56:15 Europe/Berlin] [v0] USB Print Debug - Using file copy method
+[09-Sep-2025 23:56:15 Europe/Berlin] [v0] USB Print Debug - Temp file created: C:\Users\MEMET-PC\AppData\Local\Temp\the1958.tmp
+[09-Sep-2025 23:56:15 Europe/Berlin] [v0] USB Print Debug - Trying path: TM-m30II_039347
+[09-Sep-2025 23:56:16 Europe/Berlin] [v0] USB Print Debug - Command: copy /B "C:\Users\MEMET-PC\AppData\Local\Temp\the1958.tmp" "TM-m30II_039347" 2>&1
+[09-Sep-2025 23:56:16 Europe/Berlin] [v0] USB Print Debug - Return code: 0
+[09-Sep-2025 23:56:16 Europe/Berlin] [v0] USB Print Debug - Output:         1 file(s) copied.
+[09-Sep-2025 23:56:16 Europe/Berlin] [v0] USB Print Debug - SUCCESS with path: TM-m30II_039347
+[09-Sep-2025 23:56:16 Europe/Berlin] [v0] USB Print Debug - Final SUCCESS
+[09-Sep-2025 23:56:38 Europe/Berlin] [v0] USB Print Debug - Printer Name: TM-m30II
+[09-Sep-2025 23:56:38 Europe/Berlin] [v0] USB Print Debug - Data Length: 331
+[09-Sep-2025 23:56:38 Europe/Berlin] [v0] USB Print Debug - Enhanced data length: 341
+[09-Sep-2025 23:56:38 Europe/Berlin] [v0] USB Print Debug - Using file copy method
+[09-Sep-2025 23:56:38 Europe/Berlin] [v0] USB Print Debug - Temp file created: C:\Users\MEMET-PC\AppData\Local\Temp\the715C.tmp
+[09-Sep-2025 23:56:38 Europe/Berlin] [v0] USB Print Debug - Trying path: TM-m30II
+[09-Sep-2025 23:56:38 Europe/Berlin] [v0] USB Print Debug - Command: copy /B "C:\Users\MEMET-PC\AppData\Local\Temp\the715C.tmp" "TM-m30II" 2>&1
+[09-Sep-2025 23:56:38 Europe/Berlin] [v0] USB Print Debug - Return code: 0
+[09-Sep-2025 23:56:38 Europe/Berlin] [v0] USB Print Debug - Output:         1 file(s) copied.
+[09-Sep-2025 23:56:38 Europe/Berlin] [v0] USB Print Debug - SUCCESS with path: TM-m30II
+[09-Sep-2025 23:56:38 Europe/Berlin] [v0] USB Print Debug - Final SUCCESS
+[09-Sep-2025 23:57:17 Europe/Berlin] [v0] Bluetooth Print Debug - MAC Address: 00:01:90:66:1A:23
+[09-Sep-2025 23:57:17 Europe/Berlin] [v0] Bluetooth Print Debug - Data Length: 331
+[09-Sep-2025 23:57:17 Europe/Berlin] [v0] Bluetooth Print Debug - Trying COM port: COM1:
+[09-Sep-2025 23:57:17 Europe/Berlin] [v0] Bluetooth Print Debug - MAC Address: 00:01:90:66:1A:23
+[09-Sep-2025 23:57:17 Europe/Berlin] [v0] Bluetooth Print Debug - Data Length: 331
+[09-Sep-2025 23:57:17 Europe/Berlin] [v0] Bluetooth Print Debug - Trying COM port: COM1:
+[09-Sep-2025 23:57:17 Europe/Berlin] PHP Warning:  fopen(COM1:): Failed to open stream: Permission denied in C:\xampp\htdocs\Print.php on line 232
+[09-Sep-2025 23:57:17 Europe/Berlin] [v0] Bluetooth Print Debug - Trying COM port: COM2:
+[09-Sep-2025 23:57:17 Europe/Berlin] PHP Warning:  fopen(COM2:): Failed to open stream: No such file or directory in C:\xampp\htdocs\Print.php on line 232
+[09-Sep-2025 23:57:17 Europe/Berlin] [v0] Bluetooth Print Debug - Trying COM port: COM3:
+[09-Sep-2025 23:57:17 Europe/Berlin] PHP Warning:  fopen(COM3:): Failed to open stream: No such file or directory in C:\xampp\htdocs\Print.php on line 232
+[09-Sep-2025 23:57:17 Europe/Berlin] [v0] Bluetooth Print Debug - Trying COM port: COM4:
+[09-Sep-2025 23:57:17 Europe/Berlin] PHP Warning:  fopen(COM4:): Failed to open stream: No such file or directory in C:\xampp\htdocs\Print.php on line 232
+[09-Sep-2025 23:57:17 Europe/Berlin] [v0] Bluetooth Print Debug - Trying COM port: COM5:
+[09-Sep-2025 23:57:17 Europe/Berlin] PHP Warning:  fopen(COM5:): Failed to open stream: No such file or directory in C:\xampp\htdocs\Print.php on line 232
+[09-Sep-2025 23:57:17 Europe/Berlin] [v0] Bluetooth Print Debug - Trying COM port: COM6:
+[09-Sep-2025 23:57:17 Europe/Berlin] PHP Warning:  fopen(COM6:): Failed to open stream: No such file or directory in C:\xampp\htdocs\Print.php on line 232
+[09-Sep-2025 23:57:17 Europe/Berlin] [v0] Bluetooth Print Debug - Trying COM port: COM7:
+[09-Sep-2025 23:57:17 Europe/Berlin] PHP Warning:  fopen(COM7:): Failed to open stream: No such file or directory in C:\xampp\htdocs\Print.php on line 232
+[09-Sep-2025 23:57:17 Europe/Berlin] [v0] Bluetooth Print Debug - Trying COM port: COM8:
+[09-Sep-2025 23:57:17 Europe/Berlin] PHP Warning:  fopen(COM8:): Failed to open stream: No such file or directory in C:\xampp\htdocs\Print.php on line 232
+[09-Sep-2025 23:57:18 Europe/Berlin] [v0] Bluetooth Print Debug - MAC Address: 00:01:90:66:1A:23
+[09-Sep-2025 23:57:18 Europe/Berlin] [v0] Bluetooth Print Debug - Data Length: 331
+[09-Sep-2025 23:57:18 Europe/Berlin] [v0] Bluetooth Print Debug - Trying COM port: COM1:
+[09-Sep-2025 23:57:18 Europe/Berlin] PHP Warning:  fopen(COM1:): Failed to open stream: Permission denied in C:\xampp\htdocs\Print.php on line 232
+[09-Sep-2025 23:57:18 Europe/Berlin] [v0] Bluetooth Print Debug - Trying COM port: COM2:
+[09-Sep-2025 23:57:18 Europe/Berlin] PHP Warning:  fopen(COM2:): Failed to open stream: No such file or directory in C:\xampp\htdocs\Print.php on line 232
+[09-Sep-2025 23:57:18 Europe/Berlin] [v0] Bluetooth Print Debug - Trying COM port: COM3:
+[09-Sep-2025 23:57:18 Europe/Berlin] PHP Warning:  fopen(COM3:): Failed to open stream: No such file or directory in C:\xampp\htdocs\Print.php on line 232
+[09-Sep-2025 23:57:18 Europe/Berlin] [v0] Bluetooth Print Debug - Trying COM port: COM4:
+[09-Sep-2025 23:57:18 Europe/Berlin] PHP Warning:  fopen(COM4:): Failed to open stream: No such file or directory in C:\xampp\htdocs\Print.php on line 232
+[09-Sep-2025 23:57:18 Europe/Berlin] [v0] Bluetooth Print Debug - Trying COM port: COM5:
+[09-Sep-2025 23:57:18 Europe/Berlin] PHP Warning:  fopen(COM5:): Failed to open stream: No such file or directory in C:\xampp\htdocs\Print.php on line 232
+[09-Sep-2025 23:57:18 Europe/Berlin] [v0] Bluetooth Print Debug - Trying COM port: COM6:
+[09-Sep-2025 23:57:18 Europe/Berlin] PHP Warning:  fopen(COM6:): Failed to open stream: No such file or directory in C:\xampp\htdocs\Print.php on line 232
+[09-Sep-2025 23:57:18 Europe/Berlin] [v0] Bluetooth Print Debug - Trying COM port: COM7:
+[09-Sep-2025 23:57:18 Europe/Berlin] PHP Warning:  fopen(COM7:): Failed to open stream: No such file or directory in C:\xampp\htdocs\Print.php on line 232
+[09-Sep-2025 23:57:18 Europe/Berlin] [v0] Bluetooth Print Debug - Trying COM port: COM8:
+[09-Sep-2025 23:57:18 Europe/Berlin] PHP Warning:  fopen(COM8:): Failed to open stream: No such file or directory in C:\xampp\htdocs\Print.php on line 232
+[09-Sep-2025 23:57:18 Europe/Berlin] [v0] Bluetooth Print Debug - PowerShell output: Bluetooth print attempted
+[09-Sep-2025 23:57:18 Europe/Berlin] [v0] Bluetooth Print Debug - PowerShell output: Bluetooth print attempted
+[09-Sep-2025 23:57:19 Europe/Berlin] [v0] Bluetooth Print Debug - SUCCESS with COM port: COM1:
+[09-Sep-2025 23:57:28 Europe/Berlin] [v0] Bluetooth Print Debug - MAC Address: 00:01:90:66:1A:23
+[09-Sep-2025 23:57:28 Europe/Berlin] [v0] Bluetooth Print Debug - Data Length: 389
+[09-Sep-2025 23:57:28 Europe/Berlin] [v0] Bluetooth Print Debug - Trying COM port: COM1:
+[09-Sep-2025 23:57:31 Europe/Berlin] [v0] Bluetooth Print Debug - SUCCESS with COM port: COM1:
+[09-Sep-2025 23:58:14 Europe/Berlin] [v0] Bluetooth Print Debug - MAC Address: 00:01:90:66:1A:23
+[09-Sep-2025 23:58:14 Europe/Berlin] [v0] Bluetooth Print Debug - Data Length: 331
+[09-Sep-2025 23:58:14 Europe/Berlin] [v0] Bluetooth Print Debug - Trying COM port: COM1:
+[09-Sep-2025 23:58:16 Europe/Berlin] [v0] Bluetooth Print Debug - SUCCESS with COM port: COM1:
+[09-Sep-2025 23:58:27 Europe/Berlin] [v0] Bluetooth Print Debug - MAC Address: 00:01:90:66:1A:23
+[09-Sep-2025 23:58:27 Europe/Berlin] [v0] Bluetooth Print Debug - Data Length: 331
+[09-Sep-2025 23:58:27 Europe/Berlin] [v0] Bluetooth Print Debug - Trying COM port: COM1:
+[09-Sep-2025 23:58:30 Europe/Berlin] [v0] Bluetooth Print Debug - SUCCESS with COM port: COM1:
+[09-Sep-2025 23:58:42 Europe/Berlin] [v0] USB Print Debug - Printer Name: TM-m30II
+[09-Sep-2025 23:58:42 Europe/Berlin] [v0] USB Print Debug - Data Length: 331
+[09-Sep-2025 23:58:42 Europe/Berlin] [v0] USB Print Debug - Enhanced data length: 341
+[09-Sep-2025 23:58:42 Europe/Berlin] [v0] USB Print Debug - Using file copy method
+[09-Sep-2025 23:58:42 Europe/Berlin] [v0] USB Print Debug - Temp file created: C:\Users\MEMET-PC\AppData\Local\Temp\the5523.tmp
+[09-Sep-2025 23:58:42 Europe/Berlin] [v0] USB Print Debug - Trying path: TM-m30II
+[09-Sep-2025 23:58:42 Europe/Berlin] [v0] USB Print Debug - Command: copy /B "C:\Users\MEMET-PC\AppData\Local\Temp\the5523.tmp" "TM-m30II" 2>&1
+[09-Sep-2025 23:58:42 Europe/Berlin] [v0] USB Print Debug - Return code: 0
+[09-Sep-2025 23:58:42 Europe/Berlin] [v0] USB Print Debug - Output:         1 file(s) copied.
+[09-Sep-2025 23:58:42 Europe/Berlin] [v0] USB Print Debug - SUCCESS with path: TM-m30II
+[09-Sep-2025 23:58:42 Europe/Berlin] [v0] USB Print Debug - Final SUCCESS
+[10-Sep-2025 00:01:09 Europe/Berlin] [v0] USB Print Debug - Printer Name: TM-m30II
+[10-Sep-2025 00:01:09 Europe/Berlin] [v0] USB Print Debug - Data Length: 331
+[10-Sep-2025 00:01:09 Europe/Berlin] [v0] USB Print Debug - Enhanced data length: 341
+[10-Sep-2025 00:01:09 Europe/Berlin] [v0] USB Print Debug - Using file copy method
+[10-Sep-2025 00:01:09 Europe/Berlin] [v0] USB Print Debug - Temp file created: C:\Users\MEMET-PC\AppData\Local\Temp\the934C.tmp
+[10-Sep-2025 00:01:09 Europe/Berlin] [v0] USB Print Debug - Trying path: TM-m30II
+[10-Sep-2025 00:01:09 Europe/Berlin] [v0] USB Print Debug - Command: copy /B "C:\Users\MEMET-PC\AppData\Local\Temp\the934C.tmp" "TM-m30II" 2>&1
+[10-Sep-2025 00:01:09 Europe/Berlin] [v0] USB Print Debug - Return code: 0
+[10-Sep-2025 00:01:09 Europe/Berlin] [v0] USB Print Debug - Output:         1 file(s) copied.
+[10-Sep-2025 00:01:09 Europe/Berlin] [v0] USB Print Debug - SUCCESS with path: TM-m30II
+[10-Sep-2025 00:01:09 Europe/Berlin] [v0] USB Print Debug - Final SUCCESS
+[10-Sep-2025 00:01:39 Europe/Berlin] [v0] USB Print Debug - Printer Name: TM-m30II
+[10-Sep-2025 00:01:39 Europe/Berlin] [v0] USB Print Debug - Data Length: 331
+[10-Sep-2025 00:01:39 Europe/Berlin] [v0] USB Print Debug - Enhanced data length: 341
+[10-Sep-2025 00:01:39 Europe/Berlin] [v0] USB Print Debug - Using file copy method
+[10-Sep-2025 00:01:39 Europe/Berlin] [v0] USB Print Debug - Temp file created: C:\Users\MEMET-PC\AppData\Local\Temp\theA04.tmp
+[10-Sep-2025 00:01:39 Europe/Berlin] [v0] USB Print Debug - Trying path: TM-m30II
+[10-Sep-2025 00:01:39 Europe/Berlin] [v0] USB Print Debug - Command: copy /B "C:\Users\MEMET-PC\AppData\Local\Temp\theA04.tmp" "TM-m30II" 2>&1
+[10-Sep-2025 00:01:39 Europe/Berlin] [v0] USB Print Debug - Return code: 0
+[10-Sep-2025 00:01:39 Europe/Berlin] [v0] USB Print Debug - Output:         1 file(s) copied.
+[10-Sep-2025 00:01:39 Europe/Berlin] [v0] USB Print Debug - SUCCESS with path: TM-m30II
+[10-Sep-2025 00:01:39 Europe/Berlin] [v0] USB Print Debug - Final SUCCESS
+[10-Sep-2025 00:01:53 Europe/Berlin] [v0] Bluetooth Print Debug - MAC Address: 00:01:90:66:1A:23
+[10-Sep-2025 00:01:53 Europe/Berlin] [v0] Bluetooth Print Debug - Data Length: 389
+[10-Sep-2025 00:01:53 Europe/Berlin] [v0] Bluetooth Print Debug - Trying COM port: COM1:
+[10-Sep-2025 00:01:56 Europe/Berlin] [v0] Bluetooth Print Debug - SUCCESS with COM port: COM1:
+[10-Sep-2025 00:04:31 Europe/Berlin] [v0] USB Print Debug - Printer Name: TM-m30II
+[10-Sep-2025 00:04:31 Europe/Berlin] [v0] USB Print Debug - Data Length: 331
+[10-Sep-2025 00:04:31 Europe/Berlin] [v0] USB Print Debug - Enhanced data length: 341
+[10-Sep-2025 00:04:31 Europe/Berlin] [v0] USB Print Debug - Using file copy method
+[10-Sep-2025 00:04:31 Europe/Berlin] [v0] USB Print Debug - Temp file created: C:\Users\MEMET-PC\AppData\Local\Temp\theAA14.tmp
+[10-Sep-2025 00:04:31 Europe/Berlin] [v0] USB Print Debug - Trying path: TM-m30II
+[10-Sep-2025 00:04:31 Europe/Berlin] [v0] USB Print Debug - Command: copy /B "C:\Users\MEMET-PC\AppData\Local\Temp\theAA14.tmp" "TM-m30II" 2>&1
+[10-Sep-2025 00:04:31 Europe/Berlin] [v0] USB Print Debug - Return code: 0
+[10-Sep-2025 00:04:31 Europe/Berlin] [v0] USB Print Debug - Output:         1 file(s) copied.
+[10-Sep-2025 00:04:31 Europe/Berlin] [v0] USB Print Debug - SUCCESS with path: TM-m30II
+[10-Sep-2025 00:04:31 Europe/Berlin] [v0] USB Print Debug - Final SUCCESS
+[10-Sep-2025 00:05:14 Europe/Berlin] [v0] USB Print Debug - Printer Name: TM-m30II_039347
+[10-Sep-2025 00:05:14 Europe/Berlin] [v0] USB Print Debug - Data Length: 331
+[10-Sep-2025 00:05:14 Europe/Berlin] [v0] USB Print Debug - Enhanced data length: 341
+[10-Sep-2025 00:05:14 Europe/Berlin] [v0] USB Print Debug - Using file copy method
+[10-Sep-2025 00:05:14 Europe/Berlin] [v0] USB Print Debug - Temp file created: C:\Users\MEMET-PC\AppData\Local\Temp\the5171.tmp
+[10-Sep-2025 00:05:14 Europe/Berlin] [v0] USB Print Debug - Trying path: TM-m30II_039347
+[10-Sep-2025 00:05:14 Europe/Berlin] [v0] USB Print Debug - Command: copy /B "C:\Users\MEMET-PC\AppData\Local\Temp\the5171.tmp" "TM-m30II_039347" 2>&1
+[10-Sep-2025 00:05:14 Europe/Berlin] [v0] USB Print Debug - Return code: 0
+[10-Sep-2025 00:05:14 Europe/Berlin] [v0] USB Print Debug - Output:         1 file(s) copied.
+[10-Sep-2025 00:05:14 Europe/Berlin] [v0] USB Print Debug - SUCCESS with path: TM-m30II_039347
+[10-Sep-2025 00:05:14 Europe/Berlin] [v0] USB Print Debug - Final SUCCESS
+[10-Sep-2025 00:05:35 Europe/Berlin] [v0] Bluetooth Print Debug - MAC Address: 00:01:90:66:1A:23
+[10-Sep-2025 00:05:35 Europe/Berlin] [v0] Bluetooth Print Debug - Data Length: 331
+[10-Sep-2025 00:05:35 Europe/Berlin] [v0] Bluetooth Print Debug - Trying COM port: COM1:
+[10-Sep-2025 00:05:36 Europe/Berlin] [v0] Bluetooth Print Debug - MAC Address: 00:01:90:66:1A:23
+[10-Sep-2025 00:05:36 Europe/Berlin] [v0] Bluetooth Print Debug - Data Length: 331
+[10-Sep-2025 00:05:36 Europe/Berlin] [v0] Bluetooth Print Debug - Trying COM port: COM1:
+[10-Sep-2025 00:05:36 Europe/Berlin] PHP Warning:  fopen(COM1:): Failed to open stream: Permission denied in C:\xampp\htdocs\Print.php on line 232
+[10-Sep-2025 00:05:36 Europe/Berlin] [v0] Bluetooth Print Debug - Trying COM port: COM2:
+[10-Sep-2025 00:05:36 Europe/Berlin] PHP Warning:  fopen(COM2:): Failed to open stream: No such file or directory in C:\xampp\htdocs\Print.php on line 232
+[10-Sep-2025 00:05:36 Europe/Berlin] [v0] Bluetooth Print Debug - Trying COM port: COM3:
+[10-Sep-2025 00:05:36 Europe/Berlin] PHP Warning:  fopen(COM3:): Failed to open stream: No such file or directory in C:\xampp\htdocs\Print.php on line 232
+[10-Sep-2025 00:05:36 Europe/Berlin] [v0] Bluetooth Print Debug - Trying COM port: COM4:
+[10-Sep-2025 00:05:36 Europe/Berlin] PHP Warning:  fopen(COM4:): Failed to open stream: No such file or directory in C:\xampp\htdocs\Print.php on line 232
+[10-Sep-2025 00:05:36 Europe/Berlin] [v0] Bluetooth Print Debug - Trying COM port: COM5:
+[10-Sep-2025 00:05:36 Europe/Berlin] PHP Warning:  fopen(COM5:): Failed to open stream: No such file or directory in C:\xampp\htdocs\Print.php on line 232
+[10-Sep-2025 00:05:36 Europe/Berlin] [v0] Bluetooth Print Debug - Trying COM port: COM6:
+[10-Sep-2025 00:05:36 Europe/Berlin] PHP Warning:  fopen(COM6:): Failed to open stream: No such file or directory in C:\xampp\htdocs\Print.php on line 232
+[10-Sep-2025 00:05:36 Europe/Berlin] [v0] Bluetooth Print Debug - Trying COM port: COM7:
+[10-Sep-2025 00:05:36 Europe/Berlin] PHP Warning:  fopen(COM7:): Failed to open stream: No such file or directory in C:\xampp\htdocs\Print.php on line 232
+[10-Sep-2025 00:05:36 Europe/Berlin] [v0] Bluetooth Print Debug - Trying COM port: COM8:
+[10-Sep-2025 00:05:36 Europe/Berlin] PHP Warning:  fopen(COM8:): Failed to open stream: No such file or directory in C:\xampp\htdocs\Print.php on line 232
+[10-Sep-2025 00:05:36 Europe/Berlin] [v0] Bluetooth Print Debug - PowerShell output: Bluetooth print attempted
+[10-Sep-2025 00:05:38 Europe/Berlin] [v0] Bluetooth Print Debug - SUCCESS with COM port: COM1:
+[10-Sep-2025 00:05:53 Europe/Berlin] [v0] Bluetooth Print Debug - MAC Address: 00:01:90:66:1A:23
+[10-Sep-2025 00:05:53 Europe/Berlin] [v0] Bluetooth Print Debug - Data Length: 331
+[10-Sep-2025 00:05:53 Europe/Berlin] [v0] Bluetooth Print Debug - Trying COM port: COM1:
+[10-Sep-2025 00:05:56 Europe/Berlin] [v0] Bluetooth Print Debug - SUCCESS with COM port: COM1:
+[10-Sep-2025 00:07:44 Europe/Berlin] [v0] Bluetooth Print Debug - MAC Address: 00:01:90:66:1A:23
+[10-Sep-2025 00:07:44 Europe/Berlin] [v0] Bluetooth Print Debug - Data Length: 331
+[10-Sep-2025 00:07:44 Europe/Berlin] [v0] Bluetooth Print Debug - Trying COM port: COM1:
+[10-Sep-2025 00:07:46 Europe/Berlin] [v0] Bluetooth Print Debug - SUCCESS with COM port: COM1:
+[10-Sep-2025 00:07:58 Europe/Berlin] [v0] USB Print Debug - Printer Name: TM-m30II_039347
+[10-Sep-2025 00:07:58 Europe/Berlin] [v0] USB Print Debug - Data Length: 331
+[10-Sep-2025 00:07:58 Europe/Berlin] [v0] USB Print Debug - Enhanced data length: 341
+[10-Sep-2025 00:07:58 Europe/Berlin] [v0] USB Print Debug - Using file copy method
+[10-Sep-2025 00:07:58 Europe/Berlin] [v0] USB Print Debug - Temp file created: C:\Users\MEMET-PC\AppData\Local\Temp\theD08C.tmp
+[10-Sep-2025 00:07:58 Europe/Berlin] [v0] USB Print Debug - Trying path: TM-m30II_039347
+[10-Sep-2025 00:07:58 Europe/Berlin] [v0] USB Print Debug - Command: copy /B "C:\Users\MEMET-PC\AppData\Local\Temp\theD08C.tmp" "TM-m30II_039347" 2>&1
+[10-Sep-2025 00:07:58 Europe/Berlin] [v0] USB Print Debug - Return code: 0
+[10-Sep-2025 00:07:58 Europe/Berlin] [v0] USB Print Debug - Output:         1 file(s) copied.
+[10-Sep-2025 00:07:58 Europe/Berlin] [v0] USB Print Debug - SUCCESS with path: TM-m30II_039347
+[10-Sep-2025 00:07:58 Europe/Berlin] [v0] USB Print Debug - Final SUCCESS
+[10-Sep-2025 00:11:32 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: usb
+[10-Sep-2025 00:11:32 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: NO
+[10-Sep-2025 00:11:32 Europe/Berlin] [v0] USB Print Debug - Printer Name: TM-m30II_039347
+[10-Sep-2025 00:11:32 Europe/Berlin] [v0] USB Print Debug - Data Length: 331
+[10-Sep-2025 00:11:32 Europe/Berlin] [v0] USB Print Debug - Enhanced data length: 341
+[10-Sep-2025 00:11:32 Europe/Berlin] [v0] USB Print Debug - Using file copy method
+[10-Sep-2025 00:11:32 Europe/Berlin] [v0] USB Print Debug - Temp file created: C:\Users\MEMET-PC\AppData\Local\Temp\the1410.tmp
+[10-Sep-2025 00:11:32 Europe/Berlin] [v0] USB Print Debug - Trying path: TM-m30II_039347
+[10-Sep-2025 00:11:32 Europe/Berlin] [v0] USB Print Debug - Command: copy /B "C:\Users\MEMET-PC\AppData\Local\Temp\the1410.tmp" "TM-m30II_039347" 2>&1
+[10-Sep-2025 00:11:32 Europe/Berlin] [v0] USB Print Debug - Return code: 0
+[10-Sep-2025 00:11:32 Europe/Berlin] [v0] USB Print Debug - Output:         1 file(s) copied.
+[10-Sep-2025 00:11:32 Europe/Berlin] [v0] USB Print Debug - SUCCESS with path: TM-m30II_039347
+[10-Sep-2025 00:11:32 Europe/Berlin] [v0] USB Print Debug - Final SUCCESS
+[10-Sep-2025 00:11:32 Europe/Berlin] [v0] PRINT SUCCESS - Used usb connection directly
+[10-Sep-2025 00:14:46 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: usb
+[10-Sep-2025 00:14:46 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: NO
+[10-Sep-2025 00:14:46 Europe/Berlin] [v0] USB Print Debug - Printer Name: TM-m30II_039347
+[10-Sep-2025 00:14:46 Europe/Berlin] [v0] USB Print Debug - Data Length: 339
+[10-Sep-2025 00:14:46 Europe/Berlin] [v0] USB Print Debug - Enhanced data length: 349
+[10-Sep-2025 00:14:46 Europe/Berlin] [v0] USB Print Debug - Using file copy method
+[10-Sep-2025 00:14:46 Europe/Berlin] [v0] USB Print Debug - Temp file created: C:\Users\MEMET-PC\AppData\Local\Temp\theD3C.tmp
+[10-Sep-2025 00:14:46 Europe/Berlin] [v0] USB Print Debug - Trying path: TM-m30II_039347
+[10-Sep-2025 00:14:47 Europe/Berlin] [v0] USB Print Debug - Command: copy /B "C:\Users\MEMET-PC\AppData\Local\Temp\theD3C.tmp" "TM-m30II_039347" 2>&1
+[10-Sep-2025 00:14:47 Europe/Berlin] [v0] USB Print Debug - Return code: 0
+[10-Sep-2025 00:14:47 Europe/Berlin] [v0] USB Print Debug - Output:         1 file(s) copied.
+[10-Sep-2025 00:14:47 Europe/Berlin] [v0] USB Print Debug - SUCCESS with path: TM-m30II_039347
+[10-Sep-2025 00:14:47 Europe/Berlin] [v0] USB Print Debug - Final SUCCESS
+[10-Sep-2025 00:14:47 Europe/Berlin] [v0] PRINT SUCCESS - Used usb connection directly
+[10-Sep-2025 00:14:56 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[10-Sep-2025 00:14:56 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[10-Sep-2025 00:14:56 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[10-Sep-2025 00:15:43 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[10-Sep-2025 00:15:43 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[10-Sep-2025 00:15:43 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[10-Sep-2025 00:18:15 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: usb
+[10-Sep-2025 00:18:15 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: NO
+[10-Sep-2025 00:18:15 Europe/Berlin] [v0] USB Print Debug - Printer Name: TM-m30II
+[10-Sep-2025 00:18:15 Europe/Berlin] [v0] USB Print Debug - Data Length: 338
+[10-Sep-2025 00:18:15 Europe/Berlin] [v0] USB Print Debug - Enhanced data length: 348
+[10-Sep-2025 00:18:15 Europe/Berlin] [v0] USB Print Debug - Using file copy method
+[10-Sep-2025 00:18:15 Europe/Berlin] [v0] USB Print Debug - Temp file created: C:\Users\MEMET-PC\AppData\Local\Temp\the3BF0.tmp
+[10-Sep-2025 00:18:15 Europe/Berlin] [v0] USB Print Debug - Trying path: TM-m30II
+[10-Sep-2025 00:18:15 Europe/Berlin] [v0] USB Print Debug - Command: copy /B "C:\Users\MEMET-PC\AppData\Local\Temp\the3BF0.tmp" "TM-m30II" 2>&1
+[10-Sep-2025 00:18:15 Europe/Berlin] [v0] USB Print Debug - Return code: 0
+[10-Sep-2025 00:18:15 Europe/Berlin] [v0] USB Print Debug - Output:         1 file(s) copied.
+[10-Sep-2025 00:18:15 Europe/Berlin] [v0] USB Print Debug - SUCCESS with path: TM-m30II
+[10-Sep-2025 00:18:15 Europe/Berlin] [v0] USB Print Debug - Final SUCCESS
+[10-Sep-2025 00:18:15 Europe/Berlin] [v0] PRINT SUCCESS - Used usb connection directly
+[10-Sep-2025 00:18:49 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: usb
+[10-Sep-2025 00:18:49 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: NO
+[10-Sep-2025 00:18:49 Europe/Berlin] [v0] USB Print Debug - Printer Name: TM-m30II_039347
+[10-Sep-2025 00:18:49 Europe/Berlin] [v0] USB Print Debug - Data Length: 338
+[10-Sep-2025 00:18:49 Europe/Berlin] [v0] USB Print Debug - Enhanced data length: 348
+[10-Sep-2025 00:18:49 Europe/Berlin] [v0] USB Print Debug - Using file copy method
+[10-Sep-2025 00:18:49 Europe/Berlin] [v0] USB Print Debug - Temp file created: C:\Users\MEMET-PC\AppData\Local\Temp\theBEEC.tmp
+[10-Sep-2025 00:18:49 Europe/Berlin] [v0] USB Print Debug - Trying path: TM-m30II
+[10-Sep-2025 00:18:49 Europe/Berlin] [v0] USB Print Debug - Command: copy /B "C:\Users\MEMET-PC\AppData\Local\Temp\theBEEC.tmp" "TM-m30II" 2>&1
+[10-Sep-2025 00:18:49 Europe/Berlin] [v0] USB Print Debug - Return code: 0
+[10-Sep-2025 00:18:49 Europe/Berlin] [v0] USB Print Debug - Output:         1 file(s) copied.
+[10-Sep-2025 00:18:49 Europe/Berlin] [v0] USB Print Debug - SUCCESS with path: TM-m30II
+[10-Sep-2025 00:18:49 Europe/Berlin] [v0] USB Print Debug - Final SUCCESS
+[10-Sep-2025 00:18:49 Europe/Berlin] [v0] PRINT SUCCESS - Used usb connection directly
+[10-Sep-2025 00:22:03 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: bluetooth
+[10-Sep-2025 00:22:03 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[10-Sep-2025 00:22:03 Europe/Berlin] [v0] THERMAL PRINTER DETECTED - Forcing WiFi because thermal printers typically only work with IP connection
+[10-Sep-2025 00:22:03 Europe/Berlin] [v0] THERMAL PRINTER - Attempting WiFi print to 192.168.0.23:9100
+[10-Sep-2025 00:22:03 Europe/Berlin] [v0] THERMAL PRINTER - WiFi print SUCCESSFUL!
+[10-Sep-2025 00:22:03 Europe/Berlin] [v0] PRINT SUCCESS - Used forced WiFi instead of bluetooth
+[10-Sep-2025 00:22:28 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: bluetooth
+[10-Sep-2025 00:22:28 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[10-Sep-2025 00:22:28 Europe/Berlin] [v0] THERMAL PRINTER DETECTED - Forcing WiFi because thermal printers typically only work with IP connection
+[10-Sep-2025 00:22:28 Europe/Berlin] [v0] THERMAL PRINTER - Attempting WiFi print to 192.168.0.23:9100
+[10-Sep-2025 00:22:28 Europe/Berlin] [v0] THERMAL PRINTER - WiFi print SUCCESSFUL!
+[10-Sep-2025 00:22:28 Europe/Berlin] [v0] PRINT SUCCESS - Used forced WiFi instead of bluetooth
+[10-Sep-2025 00:23:00 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: bluetooth
+[10-Sep-2025 00:23:00 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.2
+[10-Sep-2025 00:23:00 Europe/Berlin] [v0] THERMAL PRINTER DETECTED - Forcing WiFi because thermal printers typically only work with IP connection
+[10-Sep-2025 00:23:00 Europe/Berlin] [v0] THERMAL PRINTER - Attempting WiFi print to 192.168.0.2:9100
+[10-Sep-2025 00:23:03 Europe/Berlin] [v0] THERMAL PRINTER - WiFi print FAILED: Bağlanılan uygun olarak belli bir süre içinde yanıt vermediğinden veya kurulan
+bağlantı bağlanılan ana bilgisayar yanıt vermediğinden bir bağlantı kurulamadı
+[10-Sep-2025 00:23:03 Europe/Berlin] [v0] Bluetooth Print Debug - MAC Address: 00:01:90:66:1A:23
+[10-Sep-2025 00:23:03 Europe/Berlin] [v0] Bluetooth Print Debug - Data Length: 396
+[10-Sep-2025 00:23:03 Europe/Berlin] [v0] Bluetooth Print Debug - Trying COM port: COM1:
+[10-Sep-2025 00:23:06 Europe/Berlin] [v0] Bluetooth Print Debug - SUCCESS with COM port: COM1:
+[10-Sep-2025 00:23:06 Europe/Berlin] [v0] PRINT SUCCESS - Used bluetooth connection directly
+[10-Sep-2025 00:26:27 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: bluetooth
+[10-Sep-2025 00:26:27 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[10-Sep-2025 00:26:27 Europe/Berlin] [v0] THERMAL PRINTER DETECTED - Forcing WiFi because thermal printers typically only work with IP connection
+[10-Sep-2025 00:26:27 Europe/Berlin] [v0] THERMAL PRINTER - Attempting WiFi print to 192.168.0.23:9100
+[10-Sep-2025 00:26:27 Europe/Berlin] [v0] THERMAL PRINTER - WiFi print SUCCESSFUL!
+[10-Sep-2025 00:26:27 Europe/Berlin] [v0] PRINT SUCCESS - Used forced WiFi instead of bluetooth
+[10-Sep-2025 00:26:49 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: bluetooth
+[10-Sep-2025 00:26:49 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[10-Sep-2025 00:26:49 Europe/Berlin] [v0] THERMAL PRINTER DETECTED - Forcing WiFi because thermal printers typically only work with IP connection
+[10-Sep-2025 00:26:49 Europe/Berlin] [v0] THERMAL PRINTER - Attempting WiFi print to 192.168.0.23:9100
+[10-Sep-2025 00:26:49 Europe/Berlin] [v0] THERMAL PRINTER - WiFi print SUCCESSFUL!
+[10-Sep-2025 00:26:49 Europe/Berlin] [v0] PRINT SUCCESS - Used forced WiFi instead of bluetooth
+[10-Sep-2025 00:27:41 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: bluetooth
+[10-Sep-2025 00:27:41 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[10-Sep-2025 00:27:41 Europe/Berlin] [v0] THERMAL PRINTER DETECTED - Forcing WiFi because thermal printers typically only work with IP connection
+[10-Sep-2025 00:27:41 Europe/Berlin] [v0] THERMAL PRINTER - Attempting WiFi print to 192.168.0.23:9100
+[10-Sep-2025 00:27:41 Europe/Berlin] [v0] THERMAL PRINTER - WiFi print SUCCESSFUL!
+[10-Sep-2025 00:27:41 Europe/Berlin] [v0] PRINT SUCCESS - Used forced WiFi instead of bluetooth
+[10-Sep-2025 00:29:51 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: bluetooth
+[10-Sep-2025 00:29:51 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[10-Sep-2025 00:29:51 Europe/Berlin] [v0] Bluetooth Print Debug - MAC Address: 00:01:90:66:1A:23
+[10-Sep-2025 00:29:51 Europe/Berlin] [v0] Bluetooth Print Debug - Data Length: 396
+[10-Sep-2025 00:29:51 Europe/Berlin] [v0] Bluetooth Print Debug - Trying COM port: COM1:
+[10-Sep-2025 00:29:54 Europe/Berlin] [v0] Bluetooth Print Debug - SUCCESS with COM port: COM1:
+[10-Sep-2025 00:29:54 Europe/Berlin] [v0] PRINT SUCCESS - Used bluetooth connection directly
+[10-Sep-2025 00:31:51 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: bluetooth
+[10-Sep-2025 00:31:51 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[10-Sep-2025 00:31:51 Europe/Berlin] [v0] Bluetooth Print Debug - MAC Address: 00:01:90:66:1A:23
+[10-Sep-2025 00:31:51 Europe/Berlin] [v0] Bluetooth Print Debug - Data Length: 396
+[10-Sep-2025 00:31:51 Europe/Berlin] [v0] Bluetooth Print Debug - Trying COM port: COM1:
+[10-Sep-2025 00:31:54 Europe/Berlin] [v0] Bluetooth Print Debug - SUCCESS with COM port: COM1:
+[10-Sep-2025 00:31:54 Europe/Berlin] [v0] PRINT SUCCESS - Used bluetooth connection directly
+[10-Sep-2025 00:32:46 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[10-Sep-2025 00:32:46 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[10-Sep-2025 00:32:46 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[10-Sep-2025 00:36:15 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[10-Sep-2025 00:36:15 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[10-Sep-2025 00:36:15 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[10-Sep-2025 00:37:22 Europe/Berlin] [v0] USB Print Debug - Printer Name: TM-m30II_039347
+[10-Sep-2025 00:37:22 Europe/Berlin] [v0] USB Print Debug - Data Length: 32
+[10-Sep-2025 00:37:22 Europe/Berlin] [v0] USB Print Debug - Enhanced data length: 42
+[10-Sep-2025 00:37:22 Europe/Berlin] [v0] USB Print Debug - Using file copy method
+[10-Sep-2025 00:37:22 Europe/Berlin] [v0] USB Print Debug - Temp file created: C:\Users\MEMET-PC\AppData\Local\Temp\theBDC1.tmp
+[10-Sep-2025 00:37:22 Europe/Berlin] [v0] USB Print Debug - Trying path: TM-m30II
+[10-Sep-2025 00:37:22 Europe/Berlin] [v0] USB Print Debug - Command: copy /B "C:\Users\MEMET-PC\AppData\Local\Temp\theBDC1.tmp" "TM-m30II" 2>&1
+[10-Sep-2025 00:37:22 Europe/Berlin] [v0] USB Print Debug - Return code: 0
+[10-Sep-2025 00:37:22 Europe/Berlin] [v0] USB Print Debug - Output:         1 file(s) copied.
+[10-Sep-2025 00:37:22 Europe/Berlin] [v0] USB Print Debug - SUCCESS with path: TM-m30II
+[10-Sep-2025 00:37:22 Europe/Berlin] [v0] USB Print Debug - Final SUCCESS
+[10-Sep-2025 00:37:55 Europe/Berlin] [v0] USB Print Debug - Printer Name: TM-m30II_039347
+[10-Sep-2025 00:37:55 Europe/Berlin] [v0] USB Print Debug - Data Length: 355
+[10-Sep-2025 00:37:55 Europe/Berlin] [v0] USB Print Debug - Enhanced data length: 365
+[10-Sep-2025 00:37:55 Europe/Berlin] [v0] USB Print Debug - Using file copy method
+[10-Sep-2025 00:37:55 Europe/Berlin] [v0] USB Print Debug - Temp file created: C:\Users\MEMET-PC\AppData\Local\Temp\the3DA1.tmp
+[10-Sep-2025 00:37:55 Europe/Berlin] [v0] USB Print Debug - Trying path: TM-m30II
+[10-Sep-2025 00:37:55 Europe/Berlin] [v0] USB Print Debug - Command: copy /B "C:\Users\MEMET-PC\AppData\Local\Temp\the3DA1.tmp" "TM-m30II" 2>&1
+[10-Sep-2025 00:37:55 Europe/Berlin] [v0] USB Print Debug - Return code: 0
+[10-Sep-2025 00:37:55 Europe/Berlin] [v0] USB Print Debug - Output:         1 file(s) copied.
+[10-Sep-2025 00:37:55 Europe/Berlin] [v0] USB Print Debug - SUCCESS with path: TM-m30II
+[10-Sep-2025 00:37:55 Europe/Berlin] [v0] USB Print Debug - Final SUCCESS
+[10-Sep-2025 00:38:00 Europe/Berlin] [v0] USB Print Debug - Printer Name: TM-m30II_039347
+[10-Sep-2025 00:38:00 Europe/Berlin] [v0] USB Print Debug - Data Length: 356
+[10-Sep-2025 00:38:00 Europe/Berlin] [v0] USB Print Debug - Enhanced data length: 366
+[10-Sep-2025 00:38:00 Europe/Berlin] [v0] USB Print Debug - Using file copy method
+[10-Sep-2025 00:38:00 Europe/Berlin] [v0] USB Print Debug - Temp file created: C:\Users\MEMET-PC\AppData\Local\Temp\the5243.tmp
+[10-Sep-2025 00:38:00 Europe/Berlin] [v0] USB Print Debug - Trying path: TM-m30II
+[10-Sep-2025 00:38:00 Europe/Berlin] [v0] USB Print Debug - Command: copy /B "C:\Users\MEMET-PC\AppData\Local\Temp\the5243.tmp" "TM-m30II" 2>&1
+[10-Sep-2025 00:38:00 Europe/Berlin] [v0] USB Print Debug - Return code: 0
+[10-Sep-2025 00:38:00 Europe/Berlin] [v0] USB Print Debug - Output:         1 file(s) copied.
+[10-Sep-2025 00:38:00 Europe/Berlin] [v0] USB Print Debug - SUCCESS with path: TM-m30II
+[10-Sep-2025 00:38:00 Europe/Berlin] [v0] USB Print Debug - Final SUCCESS
+[10-Sep-2025 00:38:08 Europe/Berlin] [v0] USB Print Debug - Printer Name: TM-m30II_039347
+[10-Sep-2025 00:38:08 Europe/Berlin] [v0] USB Print Debug - Data Length: 355
+[10-Sep-2025 00:38:08 Europe/Berlin] [v0] USB Print Debug - Enhanced data length: 365
+[10-Sep-2025 00:38:08 Europe/Berlin] [v0] USB Print Debug - Using file copy method
+[10-Sep-2025 00:38:08 Europe/Berlin] [v0] USB Print Debug - Temp file created: C:\Users\MEMET-PC\AppData\Local\Temp\the6E86.tmp
+[10-Sep-2025 00:38:08 Europe/Berlin] [v0] USB Print Debug - Trying path: TM-m30II
+[10-Sep-2025 00:38:08 Europe/Berlin] [v0] USB Print Debug - Command: copy /B "C:\Users\MEMET-PC\AppData\Local\Temp\the6E86.tmp" "TM-m30II" 2>&1
+[10-Sep-2025 00:38:08 Europe/Berlin] [v0] USB Print Debug - Return code: 0
+[10-Sep-2025 00:38:08 Europe/Berlin] [v0] USB Print Debug - Output:         1 file(s) copied.
+[10-Sep-2025 00:38:08 Europe/Berlin] [v0] USB Print Debug - SUCCESS with path: TM-m30II
+[10-Sep-2025 00:38:08 Europe/Berlin] [v0] USB Print Debug - Final SUCCESS
+[10-Sep-2025 00:39:35 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[10-Sep-2025 00:39:35 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[10-Sep-2025 00:39:35 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[10-Sep-2025 00:43:12 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[10-Sep-2025 00:43:12 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[10-Sep-2025 00:43:12 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[10-Sep-2025 00:43:34 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[10-Sep-2025 00:43:34 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[10-Sep-2025 00:43:34 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[10-Sep-2025 00:46:43 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[10-Sep-2025 00:46:43 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[10-Sep-2025 00:46:43 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[10-Sep-2025 00:52:25 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[10-Sep-2025 00:52:25 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[10-Sep-2025 00:52:25 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[10-Sep-2025 00:54:41 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[10-Sep-2025 00:54:41 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[10-Sep-2025 00:54:41 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[10-Sep-2025 00:57:18 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: usb
+[10-Sep-2025 00:57:18 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[10-Sep-2025 00:57:18 Europe/Berlin] [v0] USB Print Debug - Printer Name: TM-m30II
+[10-Sep-2025 00:57:18 Europe/Berlin] [v0] USB Print Debug - Data Length: 353
+[10-Sep-2025 00:57:18 Europe/Berlin] [v0] USB Print Debug - Enhanced data length: 363
+[10-Sep-2025 00:57:18 Europe/Berlin] [v0] USB Print Debug - Using file copy method
+[10-Sep-2025 00:57:18 Europe/Berlin] [v0] USB Print Debug - Temp file created: C:\Users\MEMET-PC\AppData\Local\Temp\theFDD4.tmp
+[10-Sep-2025 00:57:18 Europe/Berlin] [v0] USB Print Debug - Trying path: TM-m30II
+[10-Sep-2025 00:57:18 Europe/Berlin] [v0] USB Print Debug - Command: copy /B "C:\Users\MEMET-PC\AppData\Local\Temp\theFDD4.tmp" "TM-m30II" 2>&1
+[10-Sep-2025 00:57:18 Europe/Berlin] [v0] USB Print Debug - Return code: 0
+[10-Sep-2025 00:57:18 Europe/Berlin] [v0] USB Print Debug - Output:         1 file(s) copied.
+[10-Sep-2025 00:57:18 Europe/Berlin] [v0] USB Print Debug - SUCCESS with path: TM-m30II
+[10-Sep-2025 00:57:18 Europe/Berlin] [v0] USB Print Debug - Final SUCCESS
+[10-Sep-2025 00:57:18 Europe/Berlin] [v0] PRINT SUCCESS - Used usb connection directly
+[10-Sep-2025 01:04:51 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: usb
+[10-Sep-2025 01:04:51 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[10-Sep-2025 01:04:51 Europe/Berlin] [v0] USB Print Debug - Printer Name: TM-m30II
+[10-Sep-2025 01:04:51 Europe/Berlin] [v0] USB Print Debug - Data Length: 352
+[10-Sep-2025 01:04:51 Europe/Berlin] [v0] USB Print Debug - Enhanced data length: 362
+[10-Sep-2025 01:04:51 Europe/Berlin] [v0] USB Print Debug - Using file copy method
+[10-Sep-2025 01:04:51 Europe/Berlin] [v0] USB Print Debug - Temp file created: C:\Users\MEMET-PC\AppData\Local\Temp\theE5E6.tmp
+[10-Sep-2025 01:04:51 Europe/Berlin] [v0] USB Print Debug - Trying path: TM-m30II
+[10-Sep-2025 01:04:51 Europe/Berlin] [v0] USB Print Debug - Command: copy /B "C:\Users\MEMET-PC\AppData\Local\Temp\theE5E6.tmp" "TM-m30II" 2>&1
+[10-Sep-2025 01:04:51 Europe/Berlin] [v0] USB Print Debug - Return code: 0
+[10-Sep-2025 01:04:51 Europe/Berlin] [v0] USB Print Debug - Output:         1 file(s) copied.
+[10-Sep-2025 01:04:51 Europe/Berlin] [v0] USB Print Debug - SUCCESS with path: TM-m30II
+[10-Sep-2025 01:04:51 Europe/Berlin] [v0] USB Print Debug - Final SUCCESS
+[10-Sep-2025 01:04:51 Europe/Berlin] [v0] PRINT SUCCESS - Used usb connection directly
+[10-Sep-2025 01:06:31 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: usb
+[10-Sep-2025 01:06:31 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[10-Sep-2025 01:06:31 Europe/Berlin] [v0] USB Print Debug - Printer Name: AnyDesk Printer
+[10-Sep-2025 01:06:31 Europe/Berlin] [v0] USB Print Debug - Data Length: 352
+[10-Sep-2025 01:06:31 Europe/Berlin] [v0] USB Print Debug - Enhanced data length: 362
+[10-Sep-2025 01:06:31 Europe/Berlin] [v0] USB Print Debug - Using file copy method
+[10-Sep-2025 01:06:31 Europe/Berlin] [v0] USB Print Debug - Temp file created: C:\Users\MEMET-PC\AppData\Local\Temp\the6CC6.tmp
+[10-Sep-2025 01:06:31 Europe/Berlin] [v0] USB Print Debug - Trying path: TM-m30II
+[10-Sep-2025 01:06:31 Europe/Berlin] [v0] USB Print Debug - Command: copy /B "C:\Users\MEMET-PC\AppData\Local\Temp\the6CC6.tmp" "TM-m30II" 2>&1
+[10-Sep-2025 01:06:31 Europe/Berlin] [v0] USB Print Debug - Return code: 0
+[10-Sep-2025 01:06:31 Europe/Berlin] [v0] USB Print Debug - Output:         1 file(s) copied.
+[10-Sep-2025 01:06:31 Europe/Berlin] [v0] USB Print Debug - SUCCESS with path: TM-m30II
+[10-Sep-2025 01:06:31 Europe/Berlin] [v0] USB Print Debug - Final SUCCESS
+[10-Sep-2025 01:06:31 Europe/Berlin] [v0] PRINT SUCCESS - Used usb connection directly
+[10-Sep-2025 01:08:07 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: usb
+[10-Sep-2025 01:08:07 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[10-Sep-2025 01:08:07 Europe/Berlin] [v0] USB Print Debug - Printer Name: Microsoft XPS Document Writer
+[10-Sep-2025 01:08:07 Europe/Berlin] [v0] USB Print Debug - Data Length: 352
+[10-Sep-2025 01:08:07 Europe/Berlin] [v0] USB Print Debug - Enhanced data length: 362
+[10-Sep-2025 01:08:07 Europe/Berlin] [v0] USB Print Debug - Using file copy method
+[10-Sep-2025 01:08:07 Europe/Berlin] [v0] USB Print Debug - Temp file created: C:\Users\MEMET-PC\AppData\Local\Temp\theE4E0.tmp
+[10-Sep-2025 01:08:07 Europe/Berlin] [v0] USB Print Debug - Trying path: TM-m30II
+[10-Sep-2025 01:08:07 Europe/Berlin] [v0] USB Print Debug - Command: copy /B "C:\Users\MEMET-PC\AppData\Local\Temp\theE4E0.tmp" "TM-m30II" 2>&1
+[10-Sep-2025 01:08:07 Europe/Berlin] [v0] USB Print Debug - Return code: 0
+[10-Sep-2025 01:08:07 Europe/Berlin] [v0] USB Print Debug - Output:         1 file(s) copied.
+[10-Sep-2025 01:08:07 Europe/Berlin] [v0] USB Print Debug - SUCCESS with path: TM-m30II
+[10-Sep-2025 01:08:07 Europe/Berlin] [v0] USB Print Debug - Final SUCCESS
+[10-Sep-2025 01:08:07 Europe/Berlin] [v0] PRINT SUCCESS - Used usb connection directly
+[10-Sep-2025 01:08:18 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: usb
+[10-Sep-2025 01:08:18 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[10-Sep-2025 01:08:18 Europe/Berlin] [v0] USB Print Debug - Printer Name: OneNote (Desktop)
+[10-Sep-2025 01:08:18 Europe/Berlin] [v0] USB Print Debug - Data Length: 352
+[10-Sep-2025 01:08:18 Europe/Berlin] [v0] USB Print Debug - Enhanced data length: 362
+[10-Sep-2025 01:08:18 Europe/Berlin] [v0] USB Print Debug - Using file copy method
+[10-Sep-2025 01:08:18 Europe/Berlin] [v0] USB Print Debug - Temp file created: C:\Users\MEMET-PC\AppData\Local\Temp\theD97.tmp
+[10-Sep-2025 01:08:18 Europe/Berlin] [v0] USB Print Debug - Trying path: TM-m30II
+[10-Sep-2025 01:08:18 Europe/Berlin] [v0] USB Print Debug - Command: copy /B "C:\Users\MEMET-PC\AppData\Local\Temp\theD97.tmp" "TM-m30II" 2>&1
+[10-Sep-2025 01:08:18 Europe/Berlin] [v0] USB Print Debug - Return code: 0
+[10-Sep-2025 01:08:18 Europe/Berlin] [v0] USB Print Debug - Output:         1 file(s) copied.
+[10-Sep-2025 01:08:18 Europe/Berlin] [v0] USB Print Debug - SUCCESS with path: TM-m30II
+[10-Sep-2025 01:08:18 Europe/Berlin] [v0] USB Print Debug - Final SUCCESS
+[10-Sep-2025 01:08:18 Europe/Berlin] [v0] PRINT SUCCESS - Used usb connection directly
+[10-Sep-2025 01:08:28 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: usb
+[10-Sep-2025 01:08:28 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[10-Sep-2025 01:08:28 Europe/Berlin] [v0] USB Print Debug - Printer Name: Microsoft XPS Document Writer
+[10-Sep-2025 01:08:28 Europe/Berlin] [v0] USB Print Debug - Data Length: 352
+[10-Sep-2025 01:08:28 Europe/Berlin] [v0] USB Print Debug - Enhanced data length: 362
+[10-Sep-2025 01:08:28 Europe/Berlin] [v0] USB Print Debug - Using file copy method
+[10-Sep-2025 01:08:28 Europe/Berlin] [v0] USB Print Debug - Temp file created: C:\Users\MEMET-PC\AppData\Local\Temp\the3600.tmp
+[10-Sep-2025 01:08:28 Europe/Berlin] [v0] USB Print Debug - Trying path: TM-m30II
+[10-Sep-2025 01:08:28 Europe/Berlin] [v0] USB Print Debug - Command: copy /B "C:\Users\MEMET-PC\AppData\Local\Temp\the3600.tmp" "TM-m30II" 2>&1
+[10-Sep-2025 01:08:28 Europe/Berlin] [v0] USB Print Debug - Return code: 0
+[10-Sep-2025 01:08:28 Europe/Berlin] [v0] USB Print Debug - Output:         1 file(s) copied.
+[10-Sep-2025 01:08:28 Europe/Berlin] [v0] USB Print Debug - SUCCESS with path: TM-m30II
+[10-Sep-2025 01:08:28 Europe/Berlin] [v0] USB Print Debug - Final SUCCESS
+[10-Sep-2025 01:08:28 Europe/Berlin] [v0] PRINT SUCCESS - Used usb connection directly
+[10-Sep-2025 01:08:39 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: usb
+[10-Sep-2025 01:08:39 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[10-Sep-2025 01:08:39 Europe/Berlin] [v0] USB Print Debug - Printer Name: Microsoft Print to PDF
+[10-Sep-2025 01:08:39 Europe/Berlin] [v0] USB Print Debug - Data Length: 352
+[10-Sep-2025 01:08:39 Europe/Berlin] [v0] USB Print Debug - Enhanced data length: 362
+[10-Sep-2025 01:08:39 Europe/Berlin] [v0] USB Print Debug - Using file copy method
+[10-Sep-2025 01:08:39 Europe/Berlin] [v0] USB Print Debug - Temp file created: C:\Users\MEMET-PC\AppData\Local\Temp\the61B4.tmp
+[10-Sep-2025 01:08:39 Europe/Berlin] [v0] USB Print Debug - Trying path: TM-m30II
+[10-Sep-2025 01:08:39 Europe/Berlin] [v0] USB Print Debug - Command: copy /B "C:\Users\MEMET-PC\AppData\Local\Temp\the61B4.tmp" "TM-m30II" 2>&1
+[10-Sep-2025 01:08:39 Europe/Berlin] [v0] USB Print Debug - Return code: 0
+[10-Sep-2025 01:08:39 Europe/Berlin] [v0] USB Print Debug - Output:         1 file(s) copied.
+[10-Sep-2025 01:08:39 Europe/Berlin] [v0] USB Print Debug - SUCCESS with path: TM-m30II
+[10-Sep-2025 01:08:39 Europe/Berlin] [v0] USB Print Debug - Final SUCCESS
+[10-Sep-2025 01:08:39 Europe/Berlin] [v0] PRINT SUCCESS - Used usb connection directly
+[10-Sep-2025 01:09:20 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[10-Sep-2025 01:09:20 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[10-Sep-2025 01:09:20 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[10-Sep-2025 01:13:17 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: usb
+[10-Sep-2025 01:13:17 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[10-Sep-2025 01:13:17 Europe/Berlin] [v0] USB Print Debug - Starting direct USB communication
+[10-Sep-2025 01:13:17 Europe/Berlin] [v0] USB Print Debug - Data Length: 349
+[10-Sep-2025 01:13:19 Europe/Berlin] [v0] USB Print Debug - Detected printers: []
+[10-Sep-2025 01:13:19 Europe/Berlin] [v0] USB Print Debug - Trying COM port: COM1
+[10-Sep-2025 01:13:22 Europe/Berlin] [v0] USB Print Debug - SUCCESS via COM port: COM1
+[10-Sep-2025 01:13:22 Europe/Berlin] [v0] PRINT SUCCESS - Used usb connection directly
+[10-Sep-2025 01:13:44 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[10-Sep-2025 01:13:44 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[10-Sep-2025 01:13:44 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[10-Sep-2025 01:15:03 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: usb
+[10-Sep-2025 01:15:03 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[10-Sep-2025 01:15:03 Europe/Berlin] [v0] USB Print Debug - Starting direct USB communication
+[10-Sep-2025 01:15:03 Europe/Berlin] [v0] USB Print Debug - Data Length: 346
+[10-Sep-2025 01:15:05 Europe/Berlin] [v0] USB Print Debug - Detected printers: []
+[10-Sep-2025 01:15:05 Europe/Berlin] [v0] USB Print Debug - Trying COM port: COM1
+[10-Sep-2025 01:15:07 Europe/Berlin] [v0] USB Print Debug - SUCCESS via COM port: COM1
+[10-Sep-2025 01:15:07 Europe/Berlin] [v0] PRINT SUCCESS - Used usb connection directly
+[10-Sep-2025 01:15:43 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: usb
+[10-Sep-2025 01:15:43 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[10-Sep-2025 01:15:43 Europe/Berlin] [v0] USB Print Debug - Starting direct USB communication
+[10-Sep-2025 01:15:43 Europe/Berlin] [v0] USB Print Debug - Data Length: 346
+[10-Sep-2025 01:15:44 Europe/Berlin] [v0] USB Print Debug - Detected printers: []
+[10-Sep-2025 01:15:44 Europe/Berlin] [v0] USB Print Debug - Trying COM port: COM1
+[10-Sep-2025 01:15:47 Europe/Berlin] [v0] USB Print Debug - SUCCESS via COM port: COM1
+[10-Sep-2025 01:15:47 Europe/Berlin] [v0] PRINT SUCCESS - Used usb connection directly
+[10-Sep-2025 01:15:58 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: usb
+[10-Sep-2025 01:15:58 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[10-Sep-2025 01:15:58 Europe/Berlin] [v0] USB Print Debug - Starting direct USB communication
+[10-Sep-2025 01:15:58 Europe/Berlin] [v0] USB Print Debug - Data Length: 346
+[10-Sep-2025 01:15:59 Europe/Berlin] [v0] USB Print Debug - Detected printers: []
+[10-Sep-2025 01:15:59 Europe/Berlin] [v0] USB Print Debug - Trying COM port: COM1
+[10-Sep-2025 01:16:02 Europe/Berlin] [v0] USB Print Debug - SUCCESS via COM port: COM1
+[10-Sep-2025 01:16:02 Europe/Berlin] [v0] PRINT SUCCESS - Used usb connection directly
+[10-Sep-2025 01:16:38 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: usb
+[10-Sep-2025 01:16:38 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[10-Sep-2025 01:16:38 Europe/Berlin] [v0] USB Print Debug - Starting direct USB communication
+[10-Sep-2025 01:16:38 Europe/Berlin] [v0] USB Print Debug - Data Length: 346
+[10-Sep-2025 01:16:39 Europe/Berlin] [v0] USB Print Debug - Detected printers: []
+[10-Sep-2025 01:16:39 Europe/Berlin] [v0] USB Print Debug - Trying COM port: COM1
+[10-Sep-2025 01:16:42 Europe/Berlin] [v0] USB Print Debug - SUCCESS via COM port: COM1
+[10-Sep-2025 01:16:42 Europe/Berlin] [v0] PRINT SUCCESS - Used usb connection directly
+[10-Sep-2025 01:23:51 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: bluetooth
+[10-Sep-2025 01:23:51 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[10-Sep-2025 01:23:51 Europe/Berlin] [v0] Bluetooth Print Debug - MAC Address: 00:01:90:66:1A:23
+[10-Sep-2025 01:23:51 Europe/Berlin] [v0] Bluetooth Print Debug - Data Length: 404
+[10-Sep-2025 01:23:51 Europe/Berlin] [v0] Bluetooth Print Debug - Trying COM port: COM1:
+[10-Sep-2025 01:23:54 Europe/Berlin] [v0] Bluetooth Print Debug - SUCCESS with COM port: COM1:
+[10-Sep-2025 01:23:54 Europe/Berlin] [v0] PRINT SUCCESS - Used bluetooth connection directly
+[10-Sep-2025 01:24:27 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: bluetooth
+[10-Sep-2025 01:24:27 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[10-Sep-2025 01:24:27 Europe/Berlin] [v0] Bluetooth Print - Starting with MAC: 00:01:90:66:1A:23
+[10-Sep-2025 01:24:27 Europe/Berlin] [v0] Bluetooth Print - Trying: COM1:
+[10-Sep-2025 01:24:30 Europe/Berlin] [v0] Bluetooth Print - SUCCESS with: COM1:
+[10-Sep-2025 01:24:30 Europe/Berlin] [v0] PRINT SUCCESS - Used bluetooth connection directly
+[10-Sep-2025 01:24:53 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: usb
+[10-Sep-2025 01:24:53 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[10-Sep-2025 01:24:53 Europe/Berlin] [v0] USB Print - Starting with printer: Epson TM-m30II_039347
+[10-Sep-2025 01:24:53 Europe/Berlin] [v0] USB failed, trying WiFi fallback
+[10-Sep-2025 01:24:53 Europe/Berlin] [v0] PRINT SUCCESS - Used WiFi fallback after usb failed
+[10-Sep-2025 01:25:09 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: usb
+[10-Sep-2025 01:25:09 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[10-Sep-2025 01:25:09 Europe/Berlin] [v0] USB Print - Starting with printer: Epson TM-m30II_039347
+[10-Sep-2025 01:25:09 Europe/Berlin] [v0] USB failed, trying WiFi fallback
+[10-Sep-2025 01:25:09 Europe/Berlin] [v0] PRINT SUCCESS - Used WiFi fallback after usb failed
+[10-Sep-2025 01:27:11 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: usb
+[10-Sep-2025 01:27:11 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[10-Sep-2025 01:27:11 Europe/Berlin] [v0] USB Print - Starting with printer: Epson TM-m30II_039347
+[10-Sep-2025 01:27:11 Europe/Berlin] [v0] Primary connection (usb) failed with error: USB printer not found. Please check printer name and connection.
+[10-Sep-2025 01:27:11 Europe/Berlin] [v0] Attempting WiFi fallback to 192.168.0.23:9100
+[10-Sep-2025 01:27:11 Europe/Berlin] [v0] PRINT SUCCESS - Used WiFi fallback after usb failed
+[10-Sep-2025 01:27:30 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: usb
+[10-Sep-2025 01:27:30 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[10-Sep-2025 01:27:30 Europe/Berlin] [v0] USB Print Debug - Starting direct USB communication
+[10-Sep-2025 01:27:30 Europe/Berlin] [v0] USB Print Debug - Data Length: 346
+[10-Sep-2025 01:27:31 Europe/Berlin] [v0] USB Print Debug - Detected printers: []
+[10-Sep-2025 01:27:31 Europe/Berlin] [v0] USB Print Debug - Trying COM port: COM1
+[10-Sep-2025 01:27:34 Europe/Berlin] [v0] USB Print Debug - SUCCESS via COM port: COM1
+[10-Sep-2025 01:27:34 Europe/Berlin] [v0] PRINT SUCCESS - Used usb connection directly
+[10-Sep-2025 01:29:05 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: usb
+[10-Sep-2025 01:29:05 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[10-Sep-2025 01:29:05 Europe/Berlin] [v0] USB Print - Starting with printer: Epson TM-m30II_039347
+[10-Sep-2025 01:29:06 Europe/Berlin] [v0] PRINT FAILED - Error: USB printer not found. Please check printer name and connection.
+[10-Sep-2025 01:30:24 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: usb
+[10-Sep-2025 01:30:24 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[10-Sep-2025 01:30:24 Europe/Berlin] [v0] USB Print - Starting with printer: Epson TM-m30II_039347
+[10-Sep-2025 01:30:25 Europe/Berlin] [v0] USB Print - Will try these printers: Epson TM-m30II_039347, TM-m30II, EPSON TM-m30II, USB Yazdırma Desteği, TM-T20II, TM-T82II, Star TSP143, CT-S310
+[10-Sep-2025 01:30:25 Europe/Berlin] [v0] USB Print - printer_open function not available
+[10-Sep-2025 01:30:28 Europe/Berlin] [v0] PRINT FAILED - Error: USB printer not found. Please check printer name and connection.
+[10-Sep-2025 01:30:55 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: usb
+[10-Sep-2025 01:30:55 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[10-Sep-2025 01:30:55 Europe/Berlin] [v0] USB Print - Starting with printer: TM-m30II_039347
+[10-Sep-2025 01:30:56 Europe/Berlin] [v0] USB Print - Will try these printers: TM-m30II_039347, TM-m30II, EPSON TM-m30II, USB Yazdırma Desteği, TM-T20II, TM-T82II, Star TSP143, CT-S310
+[10-Sep-2025 01:30:56 Europe/Berlin] [v0] USB Print - printer_open function not available
+[10-Sep-2025 01:30:58 Europe/Berlin] [v0] PRINT FAILED - Error: USB printer not found. Please check printer name and connection.
+[10-Sep-2025 01:31:10 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: usb
+[10-Sep-2025 01:31:10 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[10-Sep-2025 01:31:10 Europe/Berlin] [v0] USB Print - Starting with printer: TM-m30II
+[10-Sep-2025 01:31:11 Europe/Berlin] [v0] USB Print - Will try these printers: TM-m30II, EPSON TM-m30II, USB Yazdırma Desteği, TM-T20II, TM-T82II, Star TSP143, CT-S310
+[10-Sep-2025 01:31:11 Europe/Berlin] [v0] USB Print - printer_open function not available
+[10-Sep-2025 01:31:13 Europe/Berlin] [v0] PRINT FAILED - Error: USB printer not found. Please check printer name and connection.
+[10-Sep-2025 01:31:18 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: usb
+[10-Sep-2025 01:31:18 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[10-Sep-2025 01:31:18 Europe/Berlin] [v0] USB Print - Starting with printer: TM-m30II
+[10-Sep-2025 01:31:19 Europe/Berlin] [v0] USB Print - Will try these printers: TM-m30II, EPSON TM-m30II, USB Yazdırma Desteği, TM-T20II, TM-T82II, Star TSP143, CT-S310
+[10-Sep-2025 01:31:19 Europe/Berlin] [v0] USB Print - printer_open function not available
+[10-Sep-2025 01:31:21 Europe/Berlin] [v0] PRINT FAILED - Error: USB printer not found. Please check printer name and connection.
+[10-Sep-2025 01:35:08 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: usb
+[10-Sep-2025 01:35:08 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[10-Sep-2025 01:35:08 Europe/Berlin] [v0] USB Print - Starting with printer: TM-m30II
+[10-Sep-2025 01:35:09 Europe/Berlin] [v0] USB Print - Detected printers count: 0
+[10-Sep-2025 01:35:10 Europe/Berlin] [v0] USB Print - All printers command output: [    {        "Name":  "OneNote (Desktop)",        "DriverName":  "Send to Microsoft OneNote 16 Driver",        "PortName":  "nul:"    },    {        "Name":  "Microsoft XPS Document Writer",        "DriverName":  "Microsoft XPS Document Writer v4",        "PortName":  "PORTPROMPT:"    },    {        "Name":  "Microsoft Print to PDF",        "DriverName":  "Microsoft Print To PDF",        "PortName":  "PORTPROMPT:"    },    {        "Name":  "Fax",        "DriverName":  "Microsoft Shared Fax Driver",        "PortName":  "SHRFAX:"    },    {        "Name":  "AnyDesk Printer",        "DriverName":  "AnyDesk v4 Printer Driver",        "PortName":  "AD_Port"    },    {        "Name":  "3D Systems Cube 3",        "DriverName":  "3D Systems Cube 3",        "PortName":  "LPT1:"    }]
+[10-Sep-2025 01:35:10 Europe/Berlin] [v0] USB Print - Will try these printers: TM-m30II, EPSON TM-m30II, USB Yazdırma Desteği, TM-T20II, TM-T82II, Star TSP143, CT-S310
+[10-Sep-2025 01:35:10 Europe/Berlin] [v0] USB Print - printer_open function not available - PHP printer extension not installed
+[10-Sep-2025 01:35:12 Europe/Berlin] [v0] PRINT FAILED - Error: USB printer not found. Please check printer name and connection.
+[10-Sep-2025 01:35:53 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: usb
+[10-Sep-2025 01:35:53 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[10-Sep-2025 01:35:53 Europe/Berlin] [v0] USB Print - Starting with printer: TM-m30II_039347
+[10-Sep-2025 01:35:54 Europe/Berlin] [v0] USB Print - Detected printers count: 0
+[10-Sep-2025 01:35:55 Europe/Berlin] [v0] USB Print - All printers command output: [    {        "Name":  "OneNote (Desktop)",        "DriverName":  "Send to Microsoft OneNote 16 Driver",        "PortName":  "nul:"    },    {        "Name":  "Microsoft XPS Document Writer",        "DriverName":  "Microsoft XPS Document Writer v4",        "PortName":  "PORTPROMPT:"    },    {        "Name":  "Microsoft Print to PDF",        "DriverName":  "Microsoft Print To PDF",        "PortName":  "PORTPROMPT:"    },    {        "Name":  "Fax",        "DriverName":  "Microsoft Shared Fax Driver",        "PortName":  "SHRFAX:"    },    {        "Name":  "AnyDesk Printer",        "DriverName":  "AnyDesk v4 Printer Driver",        "PortName":  "AD_Port"    },    {        "Name":  "3D Systems Cube 3",        "DriverName":  "3D Systems Cube 3",        "PortName":  "LPT1:"    }]
+[10-Sep-2025 01:35:55 Europe/Berlin] [v0] USB Print - Will try these printers: TM-m30II_039347, TM-m30II, EPSON TM-m30II, USB Yazdırma Desteği, TM-T20II, TM-T82II, Star TSP143, CT-S310
+[10-Sep-2025 01:35:55 Europe/Berlin] [v0] USB Print - printer_open function not available - PHP printer extension not installed
+[10-Sep-2025 01:35:58 Europe/Berlin] [v0] PRINT FAILED - Error: USB printer not found. Please check printer name and connection.
+[10-Sep-2025 01:35:58 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: usb
+[10-Sep-2025 01:35:58 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[10-Sep-2025 01:35:58 Europe/Berlin] [v0] USB Print - Starting with printer: TM-m30II_039347
+[10-Sep-2025 01:36:00 Europe/Berlin] [v0] USB Print - Detected printers count: 0
+[10-Sep-2025 01:36:01 Europe/Berlin] [v0] USB Print - All printers command output: [    {        "Name":  "OneNote (Desktop)",        "DriverName":  "Send to Microsoft OneNote 16 Driver",        "PortName":  "nul:"    },    {        "Name":  "Microsoft XPS Document Writer",        "DriverName":  "Microsoft XPS Document Writer v4",        "PortName":  "PORTPROMPT:"    },    {        "Name":  "Microsoft Print to PDF",        "DriverName":  "Microsoft Print To PDF",        "PortName":  "PORTPROMPT:"    },    {        "Name":  "Fax",        "DriverName":  "Microsoft Shared Fax Driver",        "PortName":  "SHRFAX:"    },    {        "Name":  "AnyDesk Printer",        "DriverName":  "AnyDesk v4 Printer Driver",        "PortName":  "AD_Port"    },    {        "Name":  "3D Systems Cube 3",        "DriverName":  "3D Systems Cube 3",        "PortName":  "LPT1:"    }]
+[10-Sep-2025 01:36:01 Europe/Berlin] [v0] USB Print - Will try these printers: TM-m30II_039347, TM-m30II, EPSON TM-m30II, USB Yazdırma Desteği, TM-T20II, TM-T82II, Star TSP143, CT-S310
+[10-Sep-2025 01:36:01 Europe/Berlin] [v0] USB Print - printer_open function not available - PHP printer extension not installed
+[10-Sep-2025 01:36:03 Europe/Berlin] [v0] PRINT FAILED - Error: USB printer not found. Please check printer name and connection.
+[10-Sep-2025 01:39:30 Europe/Berlin] [v0] Print - Active connection type: usb
+[10-Sep-2025 01:39:30 Europe/Berlin] [v0] Print - WiFi available (192.168.0.23), but usb selected. Trying usb first, WiFi as backup.
+[10-Sep-2025 01:39:30 Europe/Berlin] [v0] USB Print - Simple approach starting
+[10-Sep-2025 01:39:30 Europe/Berlin] PHP Warning:  Array to string conversion in C:\xampp\htdocs\Print.php on line 267
+[10-Sep-2025 01:39:30 Europe/Berlin] [v0] Print - USB failed, trying WiFi backup
+[10-Sep-2025 01:39:30 Europe/Berlin] [Print.php] fsockopen(): Argument #2 ($port) must be of type int, string given
+[10-Sep-2025 01:42:52 Europe/Berlin] [v0] Print - Active connection type: usb
+[10-Sep-2025 01:42:52 Europe/Berlin] [v0] Print - WiFi available (192.168.0.23), but usb selected. Trying usb first, WiFi as backup.
+[10-Sep-2025 01:42:52 Europe/Berlin] [v0] USB Print - Simple approach starting
+[10-Sep-2025 01:42:52 Europe/Berlin] PHP Warning:  Array to string conversion in C:\xampp\htdocs\Print.php on line 268
+[10-Sep-2025 01:42:53 Europe/Berlin] [v0] Print - USB failed, trying WiFi backup
+[10-Sep-2025 01:42:53 Europe/Berlin] [Print.php] fwrite(): Argument #2 ($data) must be of type string, array given
+[10-Sep-2025 01:43:29 Europe/Berlin] [v0] Print - Active connection type: usb
+[10-Sep-2025 01:43:29 Europe/Berlin] [v0] Print - WiFi available (192.168.0.23), but usb selected. Trying usb first, WiFi as backup.
+[10-Sep-2025 01:43:29 Europe/Berlin] [v0] USB Print - Simple approach starting
+[10-Sep-2025 01:43:29 Europe/Berlin] PHP Warning:  Array to string conversion in C:\xampp\htdocs\Print.php on line 268
+[10-Sep-2025 01:43:30 Europe/Berlin] [v0] Print - USB failed, trying WiFi backup
+[10-Sep-2025 01:43:30 Europe/Berlin] [Print.php] fwrite(): Argument #2 ($data) must be of type string, array given
+[10-Sep-2025 01:44:33 Europe/Berlin] [v0] Print - Active connection type: usb
+[10-Sep-2025 01:44:33 Europe/Berlin] [v0] Print - WiFi available (192.168.0.23), but usb selected. Trying usb first, WiFi as backup.
+[10-Sep-2025 01:44:33 Europe/Berlin] [v0] USB Print - Simple approach starting
+[10-Sep-2025 01:44:33 Europe/Berlin] [v0] Print - USB failed, trying WiFi backup
+[10-Sep-2025 01:44:33 Europe/Berlin] [v0] PRINT SUCCESS - Used usb connection directly
+[10-Sep-2025 01:44:55 Europe/Berlin] [v0] Print - Active connection type: usb
+[10-Sep-2025 01:44:55 Europe/Berlin] [v0] Print - WiFi available (192.168.0.23), but usb selected. Trying usb first, WiFi as backup.
+[10-Sep-2025 01:44:55 Europe/Berlin] [v0] USB Print - Simple approach starting
+[10-Sep-2025 01:44:56 Europe/Berlin] [v0] Print - USB failed, trying WiFi backup
+[10-Sep-2025 01:44:59 Europe/Berlin] [v0] PRINT FAILED - Error: USB printing failed. Consider using WiFi connection instead.
+[10-Sep-2025 01:50:54 Europe/Berlin] [v0] Print - Active connection type: usb
+[10-Sep-2025 01:50:54 Europe/Berlin] [v0] USB Print - Simple approach starting
+[10-Sep-2025 01:50:54 Europe/Berlin] [v0] PRINT FAILED - Error: USB printing failed. Consider using WiFi connection instead.
+[10-Sep-2025 01:51:08 Europe/Berlin] [v0] Print - Active connection type: usb
+[10-Sep-2025 01:51:08 Europe/Berlin] [v0] Print - WiFi available (192.168.0.23), but usb selected. Trying usb first, WiFi as backup.
+[10-Sep-2025 01:51:08 Europe/Berlin] [v0] USB Print - Simple approach starting
+[10-Sep-2025 01:51:09 Europe/Berlin] [v0] Print - USB failed, trying WiFi backup
+[10-Sep-2025 01:51:12 Europe/Berlin] [v0] PRINT FAILED - Error: USB printing failed. Consider using WiFi connection instead.
+[10-Sep-2025 01:51:19 Europe/Berlin] [v0] Print - Active connection type: usb
+[10-Sep-2025 01:51:19 Europe/Berlin] [v0] Print - WiFi available (192.168.0.23), but usb selected. Trying usb first, WiFi as backup.
+[10-Sep-2025 01:51:19 Europe/Berlin] [v0] USB Print - Simple approach starting
+[10-Sep-2025 01:51:19 Europe/Berlin] PHP Warning:  Array to string conversion in C:\xampp\htdocs\Print.php on line 268
+[10-Sep-2025 01:51:20 Europe/Berlin] [v0] Print - USB failed, trying WiFi backup
+[10-Sep-2025 01:51:23 Europe/Berlin] [v0] PRINT FAILED - Error: USB printing failed. Consider using WiFi connection instead.
+[10-Sep-2025 01:51:33 Europe/Berlin] [v0] Print - Active connection type: usb
+[10-Sep-2025 01:51:33 Europe/Berlin] [v0] Print - WiFi available (192.168.0.23), but usb selected. Trying usb first, WiFi as backup.
+[10-Sep-2025 01:51:33 Europe/Berlin] [v0] USB Print - Simple approach starting
+[10-Sep-2025 01:51:33 Europe/Berlin] PHP Warning:  Array to string conversion in C:\xampp\htdocs\Print.php on line 267
+[10-Sep-2025 01:51:34 Europe/Berlin] [v0] Print - USB failed, trying WiFi backup
+[10-Sep-2025 01:51:34 Europe/Berlin] [Print.php] fsockopen(): Argument #2 ($port) must be of type int, string given
+[10-Sep-2025 01:51:40 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: usb
+[10-Sep-2025 01:51:40 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[10-Sep-2025 01:51:40 Europe/Berlin] [v0] USB Print - Starting with printer: TM-m30II_039347
+[10-Sep-2025 01:51:41 Europe/Berlin] [v0] USB Print - Detected printers count: 0
+[10-Sep-2025 01:51:42 Europe/Berlin] [v0] USB Print - All printers command output: [    {        "Name":  "OneNote (Desktop)",        "DriverName":  "Send to Microsoft OneNote 16 Driver",        "PortName":  "nul:"    },    {        "Name":  "Microsoft XPS Document Writer",        "DriverName":  "Microsoft XPS Document Writer v4",        "PortName":  "PORTPROMPT:"    },    {        "Name":  "Microsoft Print to PDF",        "DriverName":  "Microsoft Print To PDF",        "PortName":  "PORTPROMPT:"    },    {        "Name":  "Fax",        "DriverName":  "Microsoft Shared Fax Driver",        "PortName":  "SHRFAX:"    },    {        "Name":  "AnyDesk Printer",        "DriverName":  "AnyDesk v4 Printer Driver",        "PortName":  "AD_Port"    },    {        "Name":  "3D Systems Cube 3",        "DriverName":  "3D Systems Cube 3",        "PortName":  "LPT1:"    }]
+[10-Sep-2025 01:51:42 Europe/Berlin] [v0] USB Print - Will try these printers: TM-m30II_039347, TM-m30II, EPSON TM-m30II, USB Yazdırma Desteği, TM-T20II, TM-T82II, Star TSP143, CT-S310
+[10-Sep-2025 01:51:42 Europe/Berlin] [v0] USB Print - printer_open function not available - PHP printer extension not installed
+[10-Sep-2025 01:51:44 Europe/Berlin] [v0] PRINT FAILED - Error: USB printer not found. Please check printer name and connection.
+[10-Sep-2025 01:51:56 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: usb
+[10-Sep-2025 01:51:56 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[10-Sep-2025 01:51:56 Europe/Berlin] [v0] USB Print - Starting with printer: TM-m30II_039347
+[10-Sep-2025 01:51:58 Europe/Berlin] [v0] USB Print - Will try these printers: TM-m30II_039347, TM-m30II, EPSON TM-m30II, USB Yazdırma Desteği, TM-T20II, TM-T82II, Star TSP143, CT-S310
+[10-Sep-2025 01:51:58 Europe/Berlin] [v0] USB Print - printer_open function not available
+[10-Sep-2025 01:52:00 Europe/Berlin] [v0] PRINT FAILED - Error: USB printer not found. Please check printer name and connection.
+[10-Sep-2025 01:52:07 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: usb
+[10-Sep-2025 01:52:07 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[10-Sep-2025 01:52:07 Europe/Berlin] [v0] USB Print - Starting with printer: TM-m30II_039347
+[10-Sep-2025 01:52:07 Europe/Berlin] [v0] PRINT FAILED - Error: USB printer not found. Please check printer name and connection.
+[10-Sep-2025 01:52:14 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: usb
+[10-Sep-2025 01:52:14 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[10-Sep-2025 01:52:14 Europe/Berlin] [v0] USB Print Debug - Starting direct USB communication
+[10-Sep-2025 01:52:14 Europe/Berlin] [v0] USB Print Debug - Data Length: 346
+[10-Sep-2025 01:52:15 Europe/Berlin] [v0] USB Print Debug - Detected printers: []
+[10-Sep-2025 01:52:15 Europe/Berlin] [v0] USB Print Debug - Trying COM port: COM1
+[10-Sep-2025 01:52:18 Europe/Berlin] [v0] USB Print Debug - SUCCESS via COM port: COM1
+[10-Sep-2025 01:52:18 Europe/Berlin] [v0] PRINT SUCCESS - Used usb connection directly
+[10-Sep-2025 01:54:57 Europe/Berlin] URL Parameters - product_id: 1, table_id: 1
+[10-Sep-2025 01:54:57 Europe/Berlin] Product found: bella, Category ID: 1
+[10-Sep-2025 01:54:57 Europe/Berlin] Table found: 1
+[10-Sep-2025 01:54:57 Europe/Berlin] Duplicate records cleaned: 0
+[10-Sep-2025 01:54:57 Europe/Berlin] Product ID: 1, Category ID: 1 has 1 option groups (product + category)
+[10-Sep-2025 01:54:57 Europe/Berlin] Option Group: salad (ID: 1) with 2 options
+[10-Sep-2025 01:55:08 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: usb
+[10-Sep-2025 01:55:08 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[10-Sep-2025 01:55:08 Europe/Berlin] [v0] USB Print Debug - Starting direct USB communication
+[10-Sep-2025 01:55:08 Europe/Berlin] [v0] USB Print Debug - Data Length: 397
+[10-Sep-2025 01:55:09 Europe/Berlin] [v0] USB Print Debug - Detected printers: []
+[10-Sep-2025 01:55:09 Europe/Berlin] [v0] USB Print Debug - Trying COM port: COM1
+[10-Sep-2025 01:55:12 Europe/Berlin] [v0] USB Print Debug - SUCCESS via COM port: COM1
+[10-Sep-2025 01:55:12 Europe/Berlin] [v0] PRINT SUCCESS - Used usb connection directly
+[10-Sep-2025 02:09:34 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'occupied_since' in 'field list' in C:\xampp\htdocs\db.php:1118
+Stack trace:
+#0 C:\xampp\htdocs\db.php(1118): mysqli->prepare('UPDATE tables S...')
+#1 {main}
+  thrown in C:\xampp\htdocs\db.php on line 1118
+[10-Sep-2025 02:10:04 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'occupied_since' in 'field list' in C:\xampp\htdocs\db.php:1121
+Stack trace:
+#0 C:\xampp\htdocs\db.php(1121): mysqli->prepare('UPDATE tables S...')
+#1 {main}
+  thrown in C:\xampp\htdocs\db.php on line 1121
+[10-Sep-2025 02:10:08 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'occupied_since' in 'field list' in C:\xampp\htdocs\db.php:1121
+Stack trace:
+#0 C:\xampp\htdocs\db.php(1121): mysqli->prepare('UPDATE tables S...')
+#1 {main}
+  thrown in C:\xampp\htdocs\db.php on line 1121
+[10-Sep-2025 02:10:13 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'occupied_since' in 'field list' in C:\xampp\htdocs\db.php:1118
+Stack trace:
+#0 C:\xampp\htdocs\db.php(1118): mysqli->prepare('UPDATE tables S...')
+#1 {main}
+  thrown in C:\xampp\htdocs\db.php on line 1118
+[10-Sep-2025 02:11:12 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'occupied_since' in 'field list' in C:\xampp\htdocs\db.php:1118
+Stack trace:
+#0 C:\xampp\htdocs\db.php(1118): mysqli->prepare('UPDATE tables S...')
+#1 {main}
+  thrown in C:\xampp\htdocs\db.php on line 1118
+[10-Sep-2025 02:12:37 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[10-Sep-2025 02:12:37 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[10-Sep-2025 02:12:40 Europe/Berlin] [v0] PRINT FAILED - Error: Bağlanılan uygun olarak belli bir süre içinde yanıt vermediğinden veya kurulan
+bağlantı bağlanılan ana bilgisayar yanıt vermediğinden bir bağlantı kurulamadı
+[10-Sep-2025 02:12:40 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'occupied_since' in 'field list' in C:\xampp\htdocs\db.php:1118
+Stack trace:
+#0 C:\xampp\htdocs\db.php(1118): mysqli->prepare('UPDATE tables S...')
+#1 {main}
+  thrown in C:\xampp\htdocs\db.php on line 1118
+[10-Sep-2025 02:12:42 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[10-Sep-2025 02:12:42 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[10-Sep-2025 02:12:45 Europe/Berlin] [v0] PRINT FAILED - Error: Bağlanılan uygun olarak belli bir süre içinde yanıt vermediğinden veya kurulan
+bağlantı bağlanılan ana bilgisayar yanıt vermediğinden bir bağlantı kurulamadı
+[10-Sep-2025 02:13:01 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[10-Sep-2025 02:13:01 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[10-Sep-2025 02:13:01 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[10-Sep-2025 02:13:24 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[10-Sep-2025 02:13:24 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[10-Sep-2025 02:13:24 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[10-Sep-2025 02:15:46 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'occupied_since' in 'field list' in C:\xampp\htdocs\db.php:1118
+Stack trace:
+#0 C:\xampp\htdocs\db.php(1118): mysqli->prepare('UPDATE tables S...')
+#1 {main}
+  thrown in C:\xampp\htdocs\db.php on line 1118
+[10-Sep-2025 02:20:53 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'occupied_since' in 'field list' in C:\xampp\htdocs\db.php:1118
+Stack trace:
+#0 C:\xampp\htdocs\db.php(1118): mysqli->prepare('UPDATE tables S...')
+#1 {main}
+  thrown in C:\xampp\htdocs\db.php on line 1118
+[10-Sep-2025 02:28:22 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'occupied_since' in 'field list' in C:\xampp\htdocs\db.php:1121
+Stack trace:
+#0 C:\xampp\htdocs\db.php(1121): mysqli->prepare('UPDATE tables S...')
+#1 {main}
+  thrown in C:\xampp\htdocs\db.php on line 1121
+[10-Sep-2025 02:28:24 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'occupied_since' in 'field list' in C:\xampp\htdocs\db.php:1118
+Stack trace:
+#0 C:\xampp\htdocs\db.php(1118): mysqli->prepare('UPDATE tables S...')
+#1 {main}
+  thrown in C:\xampp\htdocs\db.php on line 1118
+[10-Sep-2025 02:28:59 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'occupied_since' in 'field list' in C:\xampp\htdocs\db.php:1118
+Stack trace:
+#0 C:\xampp\htdocs\db.php(1118): mysqli->prepare('UPDATE tables S...')
+#1 {main}
+  thrown in C:\xampp\htdocs\db.php on line 1118
+[10-Sep-2025 02:29:04 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'occupied_since' in 'field list' in C:\xampp\htdocs\db.php:1121
+Stack trace:
+#0 C:\xampp\htdocs\db.php(1121): mysqli->prepare('UPDATE tables S...')
+#1 {main}
+  thrown in C:\xampp\htdocs\db.php on line 1121
+[10-Sep-2025 02:29:36 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'occupied_since' in 'field list' in C:\xampp\htdocs\db.php:1121
+Stack trace:
+#0 C:\xampp\htdocs\db.php(1121): mysqli->prepare('UPDATE tables S...')
+#1 {main}
+  thrown in C:\xampp\htdocs\db.php on line 1121
+[10-Sep-2025 02:30:38 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'occupied_since' in 'field list' in C:\xampp\htdocs\db.php:1118
+Stack trace:
+#0 C:\xampp\htdocs\db.php(1118): mysqli->prepare('UPDATE tables S...')
+#1 {main}
+  thrown in C:\xampp\htdocs\db.php on line 1118
+[10-Sep-2025 02:30:42 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'occupied_since' in 'field list' in C:\xampp\htdocs\db.php:1121
+Stack trace:
+#0 C:\xampp\htdocs\db.php(1121): mysqli->prepare('UPDATE tables S...')
+#1 {main}
+  thrown in C:\xampp\htdocs\db.php on line 1121
+[10-Sep-2025 02:30:44 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'occupied_since' in 'field list' in C:\xampp\htdocs\db.php:1118
+Stack trace:
+#0 C:\xampp\htdocs\db.php(1118): mysqli->prepare('UPDATE tables S...')
+#1 {main}
+  thrown in C:\xampp\htdocs\db.php on line 1118
+[10-Sep-2025 02:30:55 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'occupied_since' in 'field list' in C:\xampp\htdocs\db.php:1118
+Stack trace:
+#0 C:\xampp\htdocs\db.php(1118): mysqli->prepare('UPDATE tables S...')
+#1 {main}
+  thrown in C:\xampp\htdocs\db.php on line 1118
+[10-Sep-2025 02:30:56 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'occupied_since' in 'field list' in C:\xampp\htdocs\db.php:1118
+Stack trace:
+#0 C:\xampp\htdocs\db.php(1118): mysqli->prepare('UPDATE tables S...')
+#1 {main}
+  thrown in C:\xampp\htdocs\db.php on line 1118
+[10-Sep-2025 02:31:03 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'occupied_since' in 'field list' in C:\xampp\htdocs\db.php:1121
+Stack trace:
+#0 C:\xampp\htdocs\db.php(1121): mysqli->prepare('UPDATE tables S...')
+#1 {main}
+  thrown in C:\xampp\htdocs\db.php on line 1121
+[10-Sep-2025 02:31:10 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'occupied_since' in 'field list' in C:\xampp\htdocs\db.php:1118
+Stack trace:
+#0 C:\xampp\htdocs\db.php(1118): mysqli->prepare('UPDATE tables S...')
+#1 {main}
+  thrown in C:\xampp\htdocs\db.php on line 1118
+[10-Sep-2025 02:31:12 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'occupied_since' in 'field list' in C:\xampp\htdocs\db.php:1121
+Stack trace:
+#0 C:\xampp\htdocs\db.php(1121): mysqli->prepare('UPDATE tables S...')
+#1 {main}
+  thrown in C:\xampp\htdocs\db.php on line 1121
+[10-Sep-2025 02:31:50 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'occupied_since' in 'field list' in C:\xampp\htdocs\db.php:1121
+Stack trace:
+#0 C:\xampp\htdocs\db.php(1121): mysqli->prepare('UPDATE tables S...')
+#1 {main}
+  thrown in C:\xampp\htdocs\db.php on line 1121
+[10-Sep-2025 02:31:51 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'occupied_since' in 'field list' in C:\xampp\htdocs\db.php:1118
+Stack trace:
+#0 C:\xampp\htdocs\db.php(1118): mysqli->prepare('UPDATE tables S...')
+#1 {main}
+  thrown in C:\xampp\htdocs\db.php on line 1118
+[10-Sep-2025 02:34:12 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'occupied_since' in 'field list' in C:\xampp\htdocs\db.php:1121
+Stack trace:
+#0 C:\xampp\htdocs\db.php(1121): mysqli->prepare('UPDATE tables S...')
+#1 {main}
+  thrown in C:\xampp\htdocs\db.php on line 1121
+[10-Sep-2025 02:34:52 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'occupied_since' in 'field list' in C:\xampp\htdocs\db.php:1121
+Stack trace:
+#0 C:\xampp\htdocs\db.php(1121): mysqli->prepare('UPDATE tables S...')
+#1 {main}
+  thrown in C:\xampp\htdocs\db.php on line 1121
+[10-Sep-2025 02:34:55 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'occupied_since' in 'field list' in C:\xampp\htdocs\db.php:1121
+Stack trace:
+#0 C:\xampp\htdocs\db.php(1121): mysqli->prepare('UPDATE tables S...')
+#1 {main}
+  thrown in C:\xampp\htdocs\db.php on line 1121
+[10-Sep-2025 02:34:56 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'occupied_since' in 'field list' in C:\xampp\htdocs\db.php:1118
+Stack trace:
+#0 C:\xampp\htdocs\db.php(1118): mysqli->prepare('UPDATE tables S...')
+#1 {main}
+  thrown in C:\xampp\htdocs\db.php on line 1118
+[10-Sep-2025 02:34:57 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[10-Sep-2025 02:34:57 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[10-Sep-2025 02:34:57 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[10-Sep-2025 02:36:10 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'occupied_since' in 'field list' in C:\xampp\htdocs\db.php:1121
+Stack trace:
+#0 C:\xampp\htdocs\db.php(1121): mysqli->prepare('UPDATE tables S...')
+#1 {main}
+  thrown in C:\xampp\htdocs\db.php on line 1121
+[10-Sep-2025 02:36:15 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'occupied_since' in 'field list' in C:\xampp\htdocs\db.php:1118
+Stack trace:
+#0 C:\xampp\htdocs\db.php(1118): mysqli->prepare('UPDATE tables S...')
+#1 {main}
+  thrown in C:\xampp\htdocs\db.php on line 1118
+[10-Sep-2025 02:36:16 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'occupied_since' in 'field list' in C:\xampp\htdocs\db.php:1118
+Stack trace:
+#0 C:\xampp\htdocs\db.php(1118): mysqli->prepare('UPDATE tables S...')
+#1 {main}
+  thrown in C:\xampp\htdocs\db.php on line 1118
+[10-Sep-2025 02:36:49 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'occupied_since' in 'field list' in C:\xampp\htdocs\db.php:1121
+Stack trace:
+#0 C:\xampp\htdocs\db.php(1121): mysqli->prepare('UPDATE tables S...')
+#1 {main}
+  thrown in C:\xampp\htdocs\db.php on line 1121
+[10-Sep-2025 02:36:51 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'occupied_since' in 'field list' in C:\xampp\htdocs\db.php:1121
+Stack trace:
+#0 C:\xampp\htdocs\db.php(1121): mysqli->prepare('UPDATE tables S...')
+#1 {main}
+  thrown in C:\xampp\htdocs\db.php on line 1121
+[10-Sep-2025 02:42:48 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'occupied_since' in 'field list' in C:\xampp\htdocs\db.php:1118
+Stack trace:
+#0 C:\xampp\htdocs\db.php(1118): mysqli->prepare('UPDATE tables S...')
+#1 {main}
+  thrown in C:\xampp\htdocs\db.php on line 1118
+[10-Sep-2025 02:42:48 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'occupied_since' in 'field list' in C:\xampp\htdocs\db.php:1118
+Stack trace:
+#0 C:\xampp\htdocs\db.php(1118): mysqli->prepare('UPDATE tables S...')
+#1 {main}
+  thrown in C:\xampp\htdocs\db.php on line 1118
+[10-Sep-2025 02:43:28 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'occupied_since' in 'field list' in C:\xampp\htdocs\db.php:1118
+Stack trace:
+#0 C:\xampp\htdocs\db.php(1118): mysqli->prepare('UPDATE tables S...')
+#1 {main}
+  thrown in C:\xampp\htdocs\db.php on line 1118
+[10-Sep-2025 02:43:31 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'occupied_since' in 'field list' in C:\xampp\htdocs\db.php:1121
+Stack trace:
+#0 C:\xampp\htdocs\db.php(1121): mysqli->prepare('UPDATE tables S...')
+#1 {main}
+  thrown in C:\xampp\htdocs\db.php on line 1121
+[10-Sep-2025 02:43:32 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'occupied_since' in 'field list' in C:\xampp\htdocs\db.php:1118
+Stack trace:
+#0 C:\xampp\htdocs\db.php(1118): mysqli->prepare('UPDATE tables S...')
+#1 {main}
+  thrown in C:\xampp\htdocs\db.php on line 1118
+[11-Sep-2025 19:41:47 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: bluetooth
+[11-Sep-2025 19:41:47 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[11-Sep-2025 19:41:47 Europe/Berlin] [v0] Bluetooth Print Debug - MAC Address: 00:01:90:66:1A:23
+[11-Sep-2025 19:41:47 Europe/Berlin] [v0] Bluetooth Print Debug - Data Length: 375
+[11-Sep-2025 19:41:47 Europe/Berlin] [v0] Bluetooth Print Debug - Trying COM port: COM1:
+[11-Sep-2025 19:41:50 Europe/Berlin] [v0] Bluetooth Print Debug - SUCCESS with COM port: COM1:
+[11-Sep-2025 19:41:50 Europe/Berlin] [v0] PRINT SUCCESS - Used bluetooth connection directly
+[11-Sep-2025 19:42:01 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: bluetooth
+[11-Sep-2025 19:42:01 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[11-Sep-2025 19:42:01 Europe/Berlin] [v0] Bluetooth Print Debug - MAC Address: 00:01:90:66:1A:23
+[11-Sep-2025 19:42:01 Europe/Berlin] [v0] Bluetooth Print Debug - Data Length: 375
+[11-Sep-2025 19:42:01 Europe/Berlin] [v0] Bluetooth Print Debug - Trying COM port: COM1:
+[11-Sep-2025 19:42:04 Europe/Berlin] [v0] Bluetooth Print Debug - SUCCESS with COM port: COM1:
+[11-Sep-2025 19:42:04 Europe/Berlin] [v0] PRINT SUCCESS - Used bluetooth connection directly
+[11-Sep-2025 19:42:13 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: bluetooth
+[11-Sep-2025 19:42:13 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[11-Sep-2025 19:42:13 Europe/Berlin] [v0] Bluetooth Print Debug - MAC Address: 00:01:90:66:1A:23
+[11-Sep-2025 19:42:13 Europe/Berlin] [v0] Bluetooth Print Debug - Data Length: 375
+[11-Sep-2025 19:42:13 Europe/Berlin] [v0] Bluetooth Print Debug - Trying COM port: COM1:
+[11-Sep-2025 19:42:16 Europe/Berlin] [v0] Bluetooth Print Debug - SUCCESS with COM port: COM1:
+[11-Sep-2025 19:42:16 Europe/Berlin] [v0] PRINT SUCCESS - Used bluetooth connection directly
+[11-Sep-2025 23:57:50 Europe/Berlin] URL Parameters - product_id: 1, table_id: 2
+[11-Sep-2025 23:57:50 Europe/Berlin] Product found: bella, Category ID: 1
+[11-Sep-2025 23:57:50 Europe/Berlin] Table found: 2
+[11-Sep-2025 23:57:50 Europe/Berlin] Duplicate records cleaned: 0
+[11-Sep-2025 23:57:50 Europe/Berlin] Product ID: 1, Category ID: 1 has 1 option groups (product + category)
+[11-Sep-2025 23:57:50 Europe/Berlin] Option Group: salad (ID: 1) with 2 options
+[12-Sep-2025 02:47:08 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: bluetooth
+[12-Sep-2025 02:47:08 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[12-Sep-2025 02:47:08 Europe/Berlin] [v0] Bluetooth Print Debug - MAC Address: 00:01:90:66:1A:23
+[12-Sep-2025 02:47:08 Europe/Berlin] [v0] Bluetooth Print Debug - Data Length: 375
+[12-Sep-2025 02:47:08 Europe/Berlin] [v0] Bluetooth Print Debug - Trying COM port: COM1:
+[12-Sep-2025 02:47:11 Europe/Berlin] [v0] Bluetooth Print Debug - SUCCESS with COM port: COM1:
+[12-Sep-2025 02:47:11 Europe/Berlin] [v0] PRINT SUCCESS - Used bluetooth connection directly
+[12-Sep-2025 02:47:56 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: bluetooth
+[12-Sep-2025 02:47:56 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[12-Sep-2025 02:47:56 Europe/Berlin] [v0] Bluetooth Print Debug - MAC Address: 00:01:90:66:1A:23
+[12-Sep-2025 02:47:56 Europe/Berlin] [v0] Bluetooth Print Debug - Data Length: 375
+[12-Sep-2025 02:47:56 Europe/Berlin] [v0] Bluetooth Print Debug - Trying COM port: COM1:
+[12-Sep-2025 02:47:58 Europe/Berlin] [v0] Bluetooth Print Debug - SUCCESS with COM port: COM1:
+[12-Sep-2025 02:47:58 Europe/Berlin] [v0] PRINT SUCCESS - Used bluetooth connection directly
+[12-Sep-2025 02:48:18 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: bluetooth
+[12-Sep-2025 02:48:18 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[12-Sep-2025 02:48:18 Europe/Berlin] [v0] Bluetooth Print Debug - MAC Address: 00:01:90:66:1A:23
+[12-Sep-2025 02:48:18 Europe/Berlin] [v0] Bluetooth Print Debug - Data Length: 375
+[12-Sep-2025 02:48:18 Europe/Berlin] [v0] Bluetooth Print Debug - Trying COM port: COM1:
+[12-Sep-2025 02:48:20 Europe/Berlin] [v0] Bluetooth Print Debug - SUCCESS with COM port: COM1:
+[12-Sep-2025 02:48:20 Europe/Berlin] [v0] PRINT SUCCESS - Used bluetooth connection directly
+[12-Sep-2025 03:04:48 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: bluetooth
+[12-Sep-2025 03:04:48 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[12-Sep-2025 03:04:48 Europe/Berlin] [v0] Bluetooth Print Debug - MAC Address: 00:01:90:66:1A:23
+[12-Sep-2025 03:04:48 Europe/Berlin] [v0] Bluetooth Print Debug - Data Length: 375
+[12-Sep-2025 03:04:48 Europe/Berlin] [v0] Bluetooth Print Debug - Trying COM port: COM1:
+[12-Sep-2025 03:04:51 Europe/Berlin] [v0] Bluetooth Print Debug - SUCCESS with COM port: COM1:
+[12-Sep-2025 03:04:51 Europe/Berlin] [v0] PRINT SUCCESS - Used bluetooth connection directly
+[12-Sep-2025 03:05:40 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: bluetooth
+[12-Sep-2025 03:05:40 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[12-Sep-2025 03:05:40 Europe/Berlin] [v0] Bluetooth Print Debug - MAC Address: 00:01:90:66:1A:23
+[12-Sep-2025 03:05:40 Europe/Berlin] [v0] Bluetooth Print Debug - Data Length: 375
+[12-Sep-2025 03:05:40 Europe/Berlin] [v0] Bluetooth Print Debug - Trying COM port: COM1:
+[12-Sep-2025 03:05:43 Europe/Berlin] [v0] Bluetooth Print Debug - SUCCESS with COM port: COM1:
+[12-Sep-2025 03:05:43 Europe/Berlin] [v0] PRINT SUCCESS - Used bluetooth connection directly
+[12-Sep-2025 22:15:25 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: bluetooth
+[12-Sep-2025 22:15:25 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[12-Sep-2025 22:15:25 Europe/Berlin] [v0] Bluetooth Print Debug - MAC Address: 00:01:90:66:1A:23
+[12-Sep-2025 22:15:25 Europe/Berlin] [v0] Bluetooth Print Debug - Data Length: 375
+[12-Sep-2025 22:15:25 Europe/Berlin] [v0] Bluetooth Print Debug - Trying COM port: COM1:
+[12-Sep-2025 22:15:28 Europe/Berlin] [v0] Bluetooth Print Debug - SUCCESS with COM port: COM1:
+[12-Sep-2025 22:15:28 Europe/Berlin] [v0] PRINT SUCCESS - Used bluetooth connection directly
+[12-Sep-2025 22:16:43 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: bluetooth
+[12-Sep-2025 22:16:43 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[12-Sep-2025 22:16:43 Europe/Berlin] [v0] Bluetooth Print Debug - MAC Address: 00:01:90:66:1A:23
+[12-Sep-2025 22:16:43 Europe/Berlin] [v0] Bluetooth Print Debug - Data Length: 375
+[12-Sep-2025 22:16:43 Europe/Berlin] [v0] Bluetooth Print Debug - Trying COM port: COM1:
+[12-Sep-2025 22:16:46 Europe/Berlin] [v0] Bluetooth Print Debug - SUCCESS with COM port: COM1:
+[12-Sep-2025 22:16:46 Europe/Berlin] [v0] PRINT SUCCESS - Used bluetooth connection directly
+[12-Sep-2025 22:33:07 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: bluetooth
+[12-Sep-2025 22:33:07 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[12-Sep-2025 22:33:07 Europe/Berlin] [v0] Bluetooth Print Debug - MAC Address: 00:01:90:66:1A:23
+[12-Sep-2025 22:33:07 Europe/Berlin] [v0] Bluetooth Print Debug - Data Length: 375
+[12-Sep-2025 22:33:07 Europe/Berlin] [v0] Bluetooth Print Debug - Trying COM port: COM1:
+[12-Sep-2025 22:33:10 Europe/Berlin] [v0] Bluetooth Print Debug - SUCCESS with COM port: COM1:
+[12-Sep-2025 22:33:10 Europe/Berlin] [v0] PRINT SUCCESS - Used bluetooth connection directly
+[12-Sep-2025 22:54:42 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\siparis.php:72) in C:\xampp\htdocs\siparis.php on line 604
+[12-Sep-2025 23:06:22 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: bluetooth
+[12-Sep-2025 23:06:22 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[12-Sep-2025 23:06:22 Europe/Berlin] [v0] Bluetooth Print Debug - MAC Address: 00:01:90:66:1A:23
+[12-Sep-2025 23:06:22 Europe/Berlin] [v0] Bluetooth Print Debug - Data Length: 375
+[12-Sep-2025 23:06:22 Europe/Berlin] [v0] Bluetooth Print Debug - Trying COM port: COM1:
+[12-Sep-2025 23:06:25 Europe/Berlin] [v0] Bluetooth Print Debug - SUCCESS with COM port: COM1:
+[12-Sep-2025 23:06:25 Europe/Berlin] [v0] PRINT SUCCESS - Used bluetooth connection directly
+[12-Sep-2025 23:06:50 Europe/Berlin] Rapor oluşturma hatası: Unknown column 'order_date' in 'where clause'
+[12-Sep-2025 23:19:01 Europe/Berlin] Rapor oluşturma hatası: Unknown column 'order_date' in 'where clause'
+[12-Sep-2025 23:21:31 Europe/Berlin] Rapor oluşturma hatası: Unknown column 'order_date' in 'where clause'
+[12-Sep-2025 23:28:40 Europe/Berlin] Rapor oluşturma hatası: Unknown column 'order_date' in 'where clause'
+[12-Sep-2025 23:29:09 Europe/Berlin] Rapor oluşturma hatası: Unknown column 'order_date' in 'where clause'
+[12-Sep-2025 23:29:39 Europe/Berlin] Rapor oluşturma hatası: Unknown column 'order_date' in 'where clause'
+[12-Sep-2025 23:30:22 Europe/Berlin] Rapor oluşturma hatası: Unknown column 'order_date' in 'where clause'
+[12-Sep-2025 23:34:05 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: bluetooth
+[12-Sep-2025 23:34:05 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[12-Sep-2025 23:34:05 Europe/Berlin] [v0] Bluetooth Print Debug - MAC Address: 00:01:90:66:1A:23
+[12-Sep-2025 23:34:05 Europe/Berlin] [v0] Bluetooth Print Debug - Data Length: 375
+[12-Sep-2025 23:34:05 Europe/Berlin] [v0] Bluetooth Print Debug - Trying COM port: COM1:
+[12-Sep-2025 23:34:08 Europe/Berlin] [v0] Bluetooth Print Debug - SUCCESS with COM port: COM1:
+[12-Sep-2025 23:34:08 Europe/Berlin] [v0] PRINT SUCCESS - Used bluetooth connection directly
+[12-Sep-2025 23:34:15 Europe/Berlin] Rapor oluşturma hatası: Unknown column 'order_date' in 'where clause'
+[12-Sep-2025 23:34:23 Europe/Berlin] Rapor oluşturma hatası: Unknown column 'order_date' in 'where clause'
+[12-Sep-2025 23:36:08 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: bluetooth
+[12-Sep-2025 23:36:08 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[12-Sep-2025 23:36:08 Europe/Berlin] [v0] Bluetooth Print Debug - MAC Address: 00:01:90:66:1A:23
+[12-Sep-2025 23:36:08 Europe/Berlin] [v0] Bluetooth Print Debug - Data Length: 375
+[12-Sep-2025 23:36:08 Europe/Berlin] [v0] Bluetooth Print Debug - Trying COM port: COM1:
+[12-Sep-2025 23:36:11 Europe/Berlin] [v0] Bluetooth Print Debug - SUCCESS with COM port: COM1:
+[12-Sep-2025 23:36:11 Europe/Berlin] [v0] PRINT SUCCESS - Used bluetooth connection directly
+[12-Sep-2025 23:36:16 Europe/Berlin] Rapor oluşturma hatası: Unknown column 'order_date' in 'where clause'
+[12-Sep-2025 23:37:48 Europe/Berlin] Rapor oluşturma hatası: Unknown column 'order_date' in 'where clause'
+[12-Sep-2025 23:40:24 Europe/Berlin] Rapor oluşturma hatası: Unknown column 'order_date' in 'where clause'
+[12-Sep-2025 23:47:21 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: bluetooth
+[12-Sep-2025 23:47:21 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[12-Sep-2025 23:47:21 Europe/Berlin] [v0] Bluetooth Print Debug - MAC Address: 00:01:90:66:1A:23
+[12-Sep-2025 23:47:21 Europe/Berlin] [v0] Bluetooth Print Debug - Data Length: 375
+[12-Sep-2025 23:47:21 Europe/Berlin] [v0] Bluetooth Print Debug - Trying COM port: COM1:
+[12-Sep-2025 23:47:24 Europe/Berlin] [v0] Bluetooth Print Debug - SUCCESS with COM port: COM1:
+[12-Sep-2025 23:47:24 Europe/Berlin] [v0] PRINT SUCCESS - Used bluetooth connection directly
+[12-Sep-2025 23:47:45 Europe/Berlin] Rapor oluşturma hatası: Unknown column 'order_date' in 'where clause'
+[12-Sep-2025 23:47:50 Europe/Berlin] Rapor oluşturma hatası: Unknown column 'order_date' in 'where clause'
+[12-Sep-2025 23:58:21 Europe/Berlin] URL Parameters - product_id: 1, table_id: 1
+[12-Sep-2025 23:58:21 Europe/Berlin] Product found: bella, Category ID: 1
+[12-Sep-2025 23:58:21 Europe/Berlin] Table found: 1
+[12-Sep-2025 23:58:21 Europe/Berlin] Duplicate records cleaned: 0
+[12-Sep-2025 23:58:21 Europe/Berlin] Product ID: 1, Category ID: 1 has 1 option groups (product + category)
+[12-Sep-2025 23:58:21 Europe/Berlin] Option Group: salad (ID: 1) with 2 options
+[13-Sep-2025 09:11:51 Europe/Berlin] URL Parameters - product_id: 1, table_id: 2
+[13-Sep-2025 09:11:51 Europe/Berlin] Product found: bella, Category ID: 1
+[13-Sep-2025 09:11:51 Europe/Berlin] Table found: 2
+[13-Sep-2025 09:11:51 Europe/Berlin] Duplicate records cleaned: 0
+[13-Sep-2025 09:11:51 Europe/Berlin] Product ID: 1, Category ID: 1 has 1 option groups (product + category)
+[13-Sep-2025 09:11:51 Europe/Berlin] Option Group: salad (ID: 1) with 2 options
+[13-Sep-2025 09:19:32 Europe/Berlin] URL Parameters - product_id: 1, table_id: 2
+[13-Sep-2025 09:19:32 Europe/Berlin] Product found: bella, Category ID: 1
+[13-Sep-2025 09:19:32 Europe/Berlin] Table found: 2
+[13-Sep-2025 09:19:32 Europe/Berlin] Duplicate records cleaned: 0
+[13-Sep-2025 09:19:32 Europe/Berlin] Product ID: 1, Category ID: 1 has 1 option groups (product + category)
+[13-Sep-2025 09:19:32 Europe/Berlin] Option Group: salad (ID: 1) with 2 options
+[13-Sep-2025 09:22:15 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: bluetooth
+[13-Sep-2025 09:22:15 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[13-Sep-2025 09:22:15 Europe/Berlin] [v0] Bluetooth Print Debug - MAC Address: 00:01:90:66:1A:23
+[13-Sep-2025 09:22:15 Europe/Berlin] [v0] Bluetooth Print Debug - Data Length: 375
+[13-Sep-2025 09:22:15 Europe/Berlin] [v0] Bluetooth Print Debug - Trying COM port: COM1:
+[13-Sep-2025 09:22:16 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: bluetooth
+[13-Sep-2025 09:22:16 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[13-Sep-2025 09:22:16 Europe/Berlin] [v0] Bluetooth Print Debug - MAC Address: 00:01:90:66:1A:23
+[13-Sep-2025 09:22:16 Europe/Berlin] [v0] Bluetooth Print Debug - Data Length: 375
+[13-Sep-2025 09:22:16 Europe/Berlin] [v0] Bluetooth Print Debug - Trying COM port: COM1:
+[13-Sep-2025 09:22:16 Europe/Berlin] PHP Warning:  fopen(COM1:): Failed to open stream: Permission denied in C:\xampp\htdocs\Print.php on line 415
+[13-Sep-2025 09:22:16 Europe/Berlin] [v0] Bluetooth Print Debug - Trying COM port: COM2:
+[13-Sep-2025 09:22:16 Europe/Berlin] PHP Warning:  fopen(COM2:): Failed to open stream: No such file or directory in C:\xampp\htdocs\Print.php on line 415
+[13-Sep-2025 09:22:16 Europe/Berlin] [v0] Bluetooth Print Debug - Trying COM port: COM3:
+[13-Sep-2025 09:22:16 Europe/Berlin] PHP Warning:  fopen(COM3:): Failed to open stream: No such file or directory in C:\xampp\htdocs\Print.php on line 415
+[13-Sep-2025 09:22:16 Europe/Berlin] [v0] Bluetooth Print Debug - Trying COM port: COM4:
+[13-Sep-2025 09:22:16 Europe/Berlin] PHP Warning:  fopen(COM4:): Failed to open stream: No such file or directory in C:\xampp\htdocs\Print.php on line 415
+[13-Sep-2025 09:22:16 Europe/Berlin] [v0] Bluetooth Print Debug - Trying COM port: COM5:
+[13-Sep-2025 09:22:16 Europe/Berlin] PHP Warning:  fopen(COM5:): Failed to open stream: No such file or directory in C:\xampp\htdocs\Print.php on line 415
+[13-Sep-2025 09:22:16 Europe/Berlin] [v0] Bluetooth Print Debug - Trying COM port: COM6:
+[13-Sep-2025 09:22:16 Europe/Berlin] PHP Warning:  fopen(COM6:): Failed to open stream: No such file or directory in C:\xampp\htdocs\Print.php on line 415
+[13-Sep-2025 09:22:16 Europe/Berlin] [v0] Bluetooth Print Debug - Trying COM port: COM7:
+[13-Sep-2025 09:22:16 Europe/Berlin] PHP Warning:  fopen(COM7:): Failed to open stream: No such file or directory in C:\xampp\htdocs\Print.php on line 415
+[13-Sep-2025 09:22:16 Europe/Berlin] [v0] Bluetooth Print Debug - Trying COM port: COM8:
+[13-Sep-2025 09:22:16 Europe/Berlin] PHP Warning:  fopen(COM8:): Failed to open stream: No such file or directory in C:\xampp\htdocs\Print.php on line 415
+[13-Sep-2025 09:22:17 Europe/Berlin] [v0] Bluetooth Print Debug - PowerShell output: Bluetooth print attempted
+[13-Sep-2025 09:22:17 Europe/Berlin] [v0] PRINT SUCCESS - Used bluetooth connection directly
+[13-Sep-2025 09:22:18 Europe/Berlin] [v0] Bluetooth Print Debug - SUCCESS with COM port: COM1:
+[13-Sep-2025 09:22:18 Europe/Berlin] [v0] PRINT SUCCESS - Used bluetooth connection directly
+[13-Sep-2025 09:47:07 Europe/Berlin] URL Parameters - product_id: 1, table_id: 3
+[13-Sep-2025 09:47:07 Europe/Berlin] Product found: bella, Category ID: 1
+[13-Sep-2025 09:47:07 Europe/Berlin] Table found: 3
+[13-Sep-2025 09:47:07 Europe/Berlin] Duplicate records cleaned: 0
+[13-Sep-2025 09:47:07 Europe/Berlin] Product ID: 1, Category ID: 1 has 1 option groups (product + category)
+[13-Sep-2025 09:47:07 Europe/Berlin] Option Group: salad (ID: 1) with 2 options
+[13-Sep-2025 09:57:52 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'if0_38069225_epost.cold_drinks' doesn't exist in C:\xampp\htdocs\extra_yonetici.php:201
+Stack trace:
+#0 C:\xampp\htdocs\extra_yonetici.php(201): mysqli->query('SELECT t.*, c.n...')
+#1 C:\xampp\htdocs\extra_yonetici.php(206): handleForm(Object(mysqli), 'cold_drinks', true)
+#2 {main}
+  thrown in C:\xampp\htdocs\extra_yonetici.php on line 201
+[13-Sep-2025 10:02:40 Europe/Berlin] URL Parameters - product_id: 1, table_id: 2
+[13-Sep-2025 10:02:40 Europe/Berlin] Product found: bella, Category ID: 1
+[13-Sep-2025 10:02:40 Europe/Berlin] Table found: 2
+[13-Sep-2025 10:02:40 Europe/Berlin] Duplicate records cleaned: 0
+[13-Sep-2025 10:02:40 Europe/Berlin] Product ID: 1, Category ID: 1 has 1 option groups (product + category)
+[13-Sep-2025 10:02:40 Europe/Berlin] Option Group: salad (ID: 1) with 2 options
+[13-Sep-2025 10:26:17 Europe/Berlin] URL Parameters - product_id: 1, table_id: 2
+[13-Sep-2025 10:26:17 Europe/Berlin] Product found: bella, Category ID: 1
+[13-Sep-2025 10:26:17 Europe/Berlin] Table found: 2
+[13-Sep-2025 10:26:17 Europe/Berlin] Duplicate records cleaned: 0
+[13-Sep-2025 10:26:17 Europe/Berlin] Product ID: 1, Category ID: 1 has 1 option groups (product + category)
+[13-Sep-2025 10:26:17 Europe/Berlin] Option Group: salad (ID: 1) with 2 options
+[13-Sep-2025 10:26:22 Europe/Berlin] URL Parameters - product_id: 1, table_id: 2
+[13-Sep-2025 10:26:22 Europe/Berlin] Product found: bella, Category ID: 1
+[13-Sep-2025 10:26:22 Europe/Berlin] Table found: 2
+[13-Sep-2025 10:26:22 Europe/Berlin] Duplicate records cleaned: 0
+[13-Sep-2025 10:26:22 Europe/Berlin] Product ID: 1, Category ID: 1 has 1 option groups (product + category)
+[13-Sep-2025 10:26:22 Europe/Berlin] Option Group: salad (ID: 1) with 2 options
+[13-Sep-2025 11:57:15 Europe/Berlin] URL Parameters - product_id: 1, table_id: 2
+[13-Sep-2025 11:57:15 Europe/Berlin] Product found: bella, Category ID: 1
+[13-Sep-2025 11:57:15 Europe/Berlin] Table found: 2
+[13-Sep-2025 11:57:15 Europe/Berlin] Duplicate records cleaned: 0
+[13-Sep-2025 11:57:15 Europe/Berlin] Product ID: 1, Category ID: 1 has 1 option groups (product + category)
+[13-Sep-2025 11:57:15 Europe/Berlin] Option Group: salad (ID: 1) with 2 options
+[13-Sep-2025 12:01:30 Europe/Berlin] URL Parameters - product_id: 1, table_id: 2
+[13-Sep-2025 12:01:30 Europe/Berlin] Product found: bella, Category ID: 1
+[13-Sep-2025 12:01:30 Europe/Berlin] Table found: 2
+[13-Sep-2025 12:01:30 Europe/Berlin] Duplicate records cleaned: 0
+[13-Sep-2025 12:01:30 Europe/Berlin] Product ID: 1, Category ID: 1 has 1 option groups (product + category)
+[13-Sep-2025 12:01:30 Europe/Berlin] Option Group: salad (ID: 1) with 2 options
+[13-Sep-2025 13:36:57 Europe/Berlin] URL Parameters - product_id: 1, table_id: 2
+[13-Sep-2025 13:36:57 Europe/Berlin] Product found: bella, Category ID: 1
+[13-Sep-2025 13:36:57 Europe/Berlin] Table found: 2
+[13-Sep-2025 13:36:57 Europe/Berlin] Duplicate records cleaned: 0
+[13-Sep-2025 13:36:57 Europe/Berlin] Product ID: 1, Category ID: 1 has 1 option groups (product + category)
+[13-Sep-2025 13:36:57 Europe/Berlin] Option Group: salad (ID: 1) with 2 options
+[13-Sep-2025 14:41:09 Europe/Berlin] URL Parameters - product_id: 1, table_id: 2
+[13-Sep-2025 14:41:09 Europe/Berlin] Product found: bella, Category ID: 1
+[13-Sep-2025 14:41:09 Europe/Berlin] Table found: 2
+[13-Sep-2025 14:41:09 Europe/Berlin] Duplicate records cleaned: 0
+[13-Sep-2025 14:41:09 Europe/Berlin] Product ID: 1, Category ID: 1 has 1 option groups (product + category)
+[13-Sep-2025 14:41:09 Europe/Berlin] Option Group: salad (ID: 1) with 2 options
+[13-Sep-2025 19:22:56 Europe/Berlin] URL Parameters - product_id: 1, table_id: 3
+[13-Sep-2025 19:22:56 Europe/Berlin] Product found: bella, Category ID: 1
+[13-Sep-2025 19:22:56 Europe/Berlin] Table found: 3
+[13-Sep-2025 19:22:56 Europe/Berlin] Duplicate records cleaned: 0
+[13-Sep-2025 19:22:56 Europe/Berlin] Product ID: 1, Category ID: 1 has 1 option groups (product + category)
+[13-Sep-2025 19:22:56 Europe/Berlin] Option Group: salad (ID: 1) with 2 options
+[13-Sep-2025 19:24:04 Europe/Berlin] URL Parameters - product_id: 1, table_id: 4
+[13-Sep-2025 19:24:04 Europe/Berlin] Product found: bella, Category ID: 1
+[13-Sep-2025 19:24:04 Europe/Berlin] Table found: 4
+[13-Sep-2025 19:24:04 Europe/Berlin] Duplicate records cleaned: 0
+[13-Sep-2025 19:24:04 Europe/Berlin] Product ID: 1, Category ID: 1 has 1 option groups (product + category)
+[13-Sep-2025 19:24:04 Europe/Berlin] Option Group: salad (ID: 1) with 2 options
+[13-Sep-2025 19:24:13 Europe/Berlin] URL Parameters - product_id: 1, table_id: 4
+[13-Sep-2025 19:24:13 Europe/Berlin] Product found: bella, Category ID: 1
+[13-Sep-2025 19:24:13 Europe/Berlin] Table found: 4
+[13-Sep-2025 19:24:13 Europe/Berlin] Duplicate records cleaned: 0
+[13-Sep-2025 19:24:13 Europe/Berlin] Product ID: 1, Category ID: 1 has 1 option groups (product + category)
+[13-Sep-2025 19:24:13 Europe/Berlin] Option Group: salad (ID: 1) with 2 options
+[13-Sep-2025 19:26:44 Europe/Berlin] URL Parameters - product_id: 1, table_id: 4
+[13-Sep-2025 19:26:44 Europe/Berlin] Product found: bella, Category ID: 1
+[13-Sep-2025 19:26:44 Europe/Berlin] Table found: 4
+[13-Sep-2025 19:26:44 Europe/Berlin] Duplicate records cleaned: 0
+[13-Sep-2025 19:26:44 Europe/Berlin] Product ID: 1, Category ID: 1 has 1 option groups (product + category)
+[13-Sep-2025 19:26:44 Europe/Berlin] Option Group: salad (ID: 1) with 2 options
+[13-Sep-2025 19:26:47 Europe/Berlin] URL Parameters - product_id: 1, table_id: 4
+[13-Sep-2025 19:26:47 Europe/Berlin] Product found: bella, Category ID: 1
+[13-Sep-2025 19:26:47 Europe/Berlin] Table found: 4
+[13-Sep-2025 19:26:47 Europe/Berlin] Duplicate records cleaned: 0
+[13-Sep-2025 19:26:47 Europe/Berlin] Product ID: 1, Category ID: 1 has 1 option groups (product + category)
+[13-Sep-2025 19:26:47 Europe/Berlin] Option Group: salad (ID: 1) with 2 options
+[13-Sep-2025 19:28:17 Europe/Berlin] URL Parameters - product_id: 1, table_id: 4
+[13-Sep-2025 19:28:17 Europe/Berlin] Product found: bella, Category ID: 1
+[13-Sep-2025 19:28:17 Europe/Berlin] Table found: 4
+[13-Sep-2025 19:28:17 Europe/Berlin] Duplicate records cleaned: 0
+[13-Sep-2025 19:28:17 Europe/Berlin] Product ID: 1, Category ID: 1 has 1 option groups (product + category)
+[13-Sep-2025 19:28:17 Europe/Berlin] Option Group: salad (ID: 1) with 2 options
+[13-Sep-2025 19:42:36 Europe/Berlin] URL Parameters - product_id: 1, table_id: 2
+[13-Sep-2025 19:42:36 Europe/Berlin] Product found: bella, Category ID: 1
+[13-Sep-2025 19:42:36 Europe/Berlin] Table found: 2
+[13-Sep-2025 19:42:36 Europe/Berlin] Duplicate records cleaned: 0
+[13-Sep-2025 19:42:36 Europe/Berlin] Product ID: 1, Category ID: 1 has 1 option groups (product + category)
+[13-Sep-2025 19:42:36 Europe/Berlin] Option Group: salad (ID: 1) with 2 options
+[13-Sep-2025 19:45:53 Europe/Berlin] URL Parameters - product_id: 4, table_id: 6
+[13-Sep-2025 19:45:53 Europe/Berlin] Product found: ham, Category ID: 4
+[13-Sep-2025 19:45:53 Europe/Berlin] Table found: 6
+[13-Sep-2025 19:45:53 Europe/Berlin] Duplicate records cleaned: 0
+[13-Sep-2025 19:45:53 Europe/Berlin] Product ID: 4, Category ID: 4 has 0 option groups (product + category)
+[13-Sep-2025 20:46:23 Europe/Berlin] URL Parameters - product_id: 4, table_id: 6
+[13-Sep-2025 20:46:31 Europe/Berlin] URL Parameters - product_id: 8, table_id: 6
+[13-Sep-2025 20:46:31 Europe/Berlin] Product found: all day, Category ID: 1
+[13-Sep-2025 20:46:31 Europe/Berlin] Table found: 6
+[13-Sep-2025 20:46:31 Europe/Berlin] Duplicate records cleaned: 0
+[13-Sep-2025 20:46:31 Europe/Berlin] Product ID: 8, Category ID: 1 has 0 option groups (product + category)
+[13-Sep-2025 20:46:36 Europe/Berlin] URL Parameters - product_id: 1, table_id: 6
+[13-Sep-2025 20:46:36 Europe/Berlin] Product found: bella, Category ID: 1
+[13-Sep-2025 20:46:36 Europe/Berlin] Table found: 6
+[13-Sep-2025 20:46:36 Europe/Berlin] Duplicate records cleaned: 0
+[13-Sep-2025 20:46:36 Europe/Berlin] Product ID: 1, Category ID: 1 has 1 option groups (product + category)
+[13-Sep-2025 20:46:36 Europe/Berlin] Option Group: salad (ID: 1) with 2 options
+[13-Sep-2025 20:46:38 Europe/Berlin] URL Parameters - product_id: 9, table_id: 6
+[13-Sep-2025 20:46:38 Europe/Berlin] Product found: asd, Category ID: 1
+[13-Sep-2025 20:46:38 Europe/Berlin] Table found: 6
+[13-Sep-2025 20:46:38 Europe/Berlin] Duplicate records cleaned: 0
+[13-Sep-2025 20:46:38 Europe/Berlin] Product ID: 9, Category ID: 1 has 0 option groups (product + category)
+[13-Sep-2025 20:46:42 Europe/Berlin] URL Parameters - product_id: 11, table_id: 6
+[13-Sep-2025 20:46:42 Europe/Berlin] Product found: cheese omlet, Category ID: 6
+[13-Sep-2025 20:46:42 Europe/Berlin] Table found: 6
+[13-Sep-2025 20:46:42 Europe/Berlin] Duplicate records cleaned: 0
+[13-Sep-2025 20:46:42 Europe/Berlin] Product ID: 11, Category ID: 6 has 0 option groups (product + category)
+[13-Sep-2025 21:20:06 Europe/Berlin] URL Parameters - product_id: 9, table_id: 4
+[13-Sep-2025 21:20:06 Europe/Berlin] Product found: asd, Category ID: 1
+[13-Sep-2025 21:20:06 Europe/Berlin] Table found: 4
+[13-Sep-2025 21:20:06 Europe/Berlin] Duplicate records cleaned: 0
+[13-Sep-2025 21:20:06 Europe/Berlin] Product ID: 9, Category ID: 1 has 0 option groups (product + category)
+[13-Sep-2025 21:22:46 Europe/Berlin] URL Parameters - product_id: 9, table_id: 4
+[13-Sep-2025 21:22:46 Europe/Berlin] Product found: asd, Category ID: 1
+[13-Sep-2025 21:22:46 Europe/Berlin] Table found: 4
+[13-Sep-2025 21:22:46 Europe/Berlin] Duplicate records cleaned: 0
+[13-Sep-2025 21:22:46 Europe/Berlin] Product ID: 9, Category ID: 1 has 0 option groups (product + category)
+[13-Sep-2025 21:22:51 Europe/Berlin] URL Parameters - product_id: 9, table_id: 4
+[13-Sep-2025 21:22:51 Europe/Berlin] Product found: asd, Category ID: 1
+[13-Sep-2025 21:22:51 Europe/Berlin] Table found: 4
+[13-Sep-2025 21:22:51 Europe/Berlin] Duplicate records cleaned: 0
+[13-Sep-2025 21:22:51 Europe/Berlin] Product ID: 9, Category ID: 1 has 0 option groups (product + category)
+[13-Sep-2025 21:22:54 Europe/Berlin] URL Parameters - product_id: 9, table_id: 4
+[13-Sep-2025 21:22:54 Europe/Berlin] Product found: asd, Category ID: 1
+[13-Sep-2025 21:22:54 Europe/Berlin] Table found: 4
+[13-Sep-2025 21:22:54 Europe/Berlin] Duplicate records cleaned: 0
+[13-Sep-2025 21:22:54 Europe/Berlin] Product ID: 9, Category ID: 1 has 0 option groups (product + category)
+[13-Sep-2025 21:23:01 Europe/Berlin] URL Parameters - product_id: 1, table_id: 4
+[13-Sep-2025 21:23:01 Europe/Berlin] Product found: bella, Category ID: 1
+[13-Sep-2025 21:23:01 Europe/Berlin] Table found: 4
+[13-Sep-2025 21:23:01 Europe/Berlin] Duplicate records cleaned: 0
+[13-Sep-2025 21:23:01 Europe/Berlin] Product ID: 1, Category ID: 1 has 1 option groups (product + category)
+[13-Sep-2025 21:23:01 Europe/Berlin] Option Group: salad (ID: 1) with 2 options
+[13-Sep-2025 21:41:44 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: bluetooth
+[13-Sep-2025 21:41:44 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[13-Sep-2025 21:41:44 Europe/Berlin] [v0] Bluetooth Print Debug - MAC Address: 00:01:90:66:1A:23
+[13-Sep-2025 21:41:44 Europe/Berlin] [v0] Bluetooth Print Debug - Data Length: 507
+[13-Sep-2025 21:41:44 Europe/Berlin] [v0] Bluetooth Print Debug - Trying COM port: COM1:
+[13-Sep-2025 21:41:48 Europe/Berlin] [v0] Bluetooth Print Debug - SUCCESS with COM port: COM1:
+[13-Sep-2025 21:41:48 Europe/Berlin] [v0] PRINT SUCCESS - Used bluetooth connection directly
+[13-Sep-2025 23:44:08 Europe/Berlin] URL Parameters - product_id: 26, table_id: 6
+[13-Sep-2025 23:44:08 Europe/Berlin] Product found: Classic Breakfast, Category ID: 12
+[13-Sep-2025 23:44:08 Europe/Berlin] Table found: 6
+[13-Sep-2025 23:44:08 Europe/Berlin] Duplicate records cleaned: 0
+[13-Sep-2025 23:44:08 Europe/Berlin] Product ID: 26, Category ID: 12 has 0 option groups (product + category)
+[14-Sep-2025 00:54:13 Europe/Berlin] URL Parameters - product_id: 301, table_id: 5
+[14-Sep-2025 00:54:13 Europe/Berlin] Product found: Farm Ham, Category ID: 39
+[14-Sep-2025 00:54:13 Europe/Berlin] Table found: 5
+[14-Sep-2025 00:54:13 Europe/Berlin] Duplicate records cleaned: 0
+[14-Sep-2025 00:54:13 Europe/Berlin] Product ID: 301, Category ID: 39 has 0 option groups (product + category)
+[14-Sep-2025 00:56:02 Europe/Berlin] URL Parameters - product_id: 390, table_id: 5
+[14-Sep-2025 00:56:02 Europe/Berlin] Product found: American Pancake, Category ID: 51
+[14-Sep-2025 00:56:02 Europe/Berlin] Table found: 5
+[14-Sep-2025 00:56:02 Europe/Berlin] Duplicate records cleaned: 0
+[14-Sep-2025 00:56:02 Europe/Berlin] Product ID: 390, Category ID: 51 has 0 option groups (product + category)
+[14-Sep-2025 00:58:04 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 00:58:04 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 00:58:04 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 00:58:34 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 00:58:34 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 00:58:34 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 01:08:54 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 01:08:54 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 01:08:54 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 01:11:45 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 01:11:45 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 01:11:45 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 01:15:51 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 01:15:51 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 01:15:51 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 01:26:12 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 01:26:12 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 01:26:12 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 01:29:58 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 01:29:58 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 01:29:58 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 01:39:50 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 01:39:50 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 01:39:50 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 01:41:42 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 01:41:42 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 01:41:42 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 01:46:34 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 01:46:34 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 01:46:34 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 01:54:42 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 01:54:42 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 01:54:42 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 02:05:43 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 02:05:43 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 02:05:43 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 02:06:02 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 02:06:02 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 02:06:02 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 02:06:14 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 02:06:14 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 02:06:14 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 02:06:26 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 02:06:26 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 02:06:26 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 02:06:42 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 02:06:42 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 02:06:42 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 02:07:12 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 02:07:12 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 02:07:12 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 02:07:22 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 02:07:22 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 02:07:22 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 02:08:00 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 02:08:00 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 02:08:00 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 02:08:09 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 02:08:09 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 02:08:09 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 02:08:55 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 02:08:55 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 02:08:55 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 02:10:36 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 02:10:36 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 02:10:36 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 02:13:57 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 02:13:57 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 02:13:57 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 02:16:00 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 02:16:00 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 02:16:00 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 02:16:17 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 02:16:17 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 02:16:17 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 02:19:48 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 02:19:48 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 02:19:48 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 02:23:38 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 02:23:38 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 02:23:38 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 02:26:27 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 02:26:27 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 02:26:27 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 02:29:03 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 02:29:03 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 02:29:03 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 02:33:38 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 02:33:38 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 02:33:38 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 02:34:35 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 02:34:35 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 02:34:35 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 02:42:56 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 02:42:56 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 02:42:56 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 02:45:03 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 02:45:03 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 02:45:03 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 02:47:59 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 02:47:59 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 02:47:59 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 02:55:03 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 02:55:03 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 02:55:03 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 02:57:18 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 02:57:18 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 02:57:18 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 02:59:26 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 02:59:26 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 02:59:26 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 03:01:46 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 03:01:46 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 03:01:46 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 03:02:40 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 03:02:40 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 03:02:40 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 03:08:43 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 03:08:43 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 03:08:43 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 03:09:03 Europe/Berlin] URL Parameters - product_id: 300, table_id: 5
+[14-Sep-2025 03:09:03 Europe/Berlin] Product found: Coffee N Beans Special Mix Grill, Category ID: 39
+[14-Sep-2025 03:09:03 Europe/Berlin] Table found: 5
+[14-Sep-2025 03:09:03 Europe/Berlin] Duplicate records cleaned: 0
+[14-Sep-2025 03:09:03 Europe/Berlin] Product ID: 300, Category ID: 39 has 0 option groups (product + category)
+[14-Sep-2025 03:12:15 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 03:12:15 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 03:12:15 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 03:20:10 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 03:20:10 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 03:20:10 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 03:21:13 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 03:21:13 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 03:21:13 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 03:23:41 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 03:23:41 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 03:23:41 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 03:24:12 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 03:24:12 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 03:24:12 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 03:26:50 Europe/Berlin] PHP Warning:  Undefined variable $x in C:\xampp\htdocs\Print.php on line 571
+[14-Sep-2025 03:26:50 Europe/Berlin] PHP Warning:  Undefined variable $x in C:\xampp\htdocs\Print.php on line 571
+[14-Sep-2025 03:26:50 Europe/Berlin] PHP Warning:  Undefined variable $x in C:\xampp\htdocs\Print.php on line 571
+[14-Sep-2025 03:26:50 Europe/Berlin] PHP Warning:  Undefined variable $x in C:\xampp\htdocs\Print.php on line 571
+[14-Sep-2025 03:26:50 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 03:26:50 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 03:26:50 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 03:27:52 Europe/Berlin] PHP Warning:  Undefined variable $x in C:\xampp\htdocs\Print.php on line 571
+[14-Sep-2025 03:27:52 Europe/Berlin] PHP Warning:  Undefined variable $x in C:\xampp\htdocs\Print.php on line 571
+[14-Sep-2025 03:27:52 Europe/Berlin] PHP Warning:  Undefined variable $x in C:\xampp\htdocs\Print.php on line 571
+[14-Sep-2025 03:27:52 Europe/Berlin] PHP Warning:  Undefined variable $x in C:\xampp\htdocs\Print.php on line 571
+[14-Sep-2025 03:27:52 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 03:27:52 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 03:27:52 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 03:28:31 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 03:28:31 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 03:28:31 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 03:29:43 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 03:29:43 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 03:29:43 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 03:30:08 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 03:30:08 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 03:30:08 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 03:33:13 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 03:33:13 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 03:33:13 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 03:33:57 Europe/Berlin] PHP Warning:  Undefined variable $total_length in C:\xampp\htdocs\Print.php on line 570
+[14-Sep-2025 03:33:57 Europe/Berlin] PHP Warning:  Undefined variable $total_length in C:\xampp\htdocs\Print.php on line 570
+[14-Sep-2025 03:33:57 Europe/Berlin] PHP Warning:  Undefined variable $total_length in C:\xampp\htdocs\Print.php on line 570
+[14-Sep-2025 03:33:57 Europe/Berlin] PHP Warning:  Undefined variable $total_length in C:\xampp\htdocs\Print.php on line 570
+[14-Sep-2025 03:33:57 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 03:33:57 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 03:33:57 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 03:34:55 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 03:34:55 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 03:34:55 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 03:38:46 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 03:38:46 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 03:38:46 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 03:45:51 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 03:45:51 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 03:45:51 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 03:47:21 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 03:47:21 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 03:47:21 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 03:48:34 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 03:48:34 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 03:48:34 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 03:50:09 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 03:50:09 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 03:50:09 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 03:51:53 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 03:51:53 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 03:51:53 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 03:52:17 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 03:52:17 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 03:52:17 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 03:55:55 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 03:55:55 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 03:55:55 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 03:57:05 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 03:57:05 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 03:57:05 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 04:00:28 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 04:00:28 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 04:00:28 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 04:01:02 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 04:01:02 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 04:01:02 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 04:01:42 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 04:01:42 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 04:01:42 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 04:02:03 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 04:02:03 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 04:02:03 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 04:02:37 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 04:02:37 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 04:02:37 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 04:03:25 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 04:03:25 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 04:03:25 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 04:04:11 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 04:04:11 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 04:04:11 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 04:04:40 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 04:04:40 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 04:04:40 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 04:05:28 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 04:05:28 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 04:05:28 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 04:06:07 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 04:06:07 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 04:06:07 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 04:06:40 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 04:06:40 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 04:06:40 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 04:09:54 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 04:09:54 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 04:09:54 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 04:17:57 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 04:17:57 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 04:17:57 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 04:19:29 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 04:19:29 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 04:19:29 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 04:21:48 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 04:21:48 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 04:21:48 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 04:22:23 Europe/Berlin] URL Parameters - product_id: 250, table_id: 5
+[14-Sep-2025 04:22:23 Europe/Berlin] Product found: Classic Breakfast, Category ID: 35
+[14-Sep-2025 04:22:23 Europe/Berlin] Table found: 5
+[14-Sep-2025 04:22:23 Europe/Berlin] Duplicate records cleaned: 0
+[14-Sep-2025 04:22:23 Europe/Berlin] Product ID: 250, Category ID: 35 has 0 option groups (product + category)
+[14-Sep-2025 04:25:59 Europe/Berlin] [Print.php] mb_strimwidth(): Argument #3 ($width) is out of range
+[14-Sep-2025 04:26:04 Europe/Berlin] [Print.php] mb_strimwidth(): Argument #3 ($width) is out of range
+[14-Sep-2025 04:27:11 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 04:27:11 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 04:27:11 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 04:27:35 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 04:27:35 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 04:27:35 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 04:31:57 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 04:31:57 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 04:31:57 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 04:38:32 Europe/Berlin] PHP Warning:  Undefined variable $items in C:\xampp\htdocs\Print.php on line 767
+[14-Sep-2025 04:38:32 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\Print.php on line 767
+[14-Sep-2025 04:38:32 Europe/Berlin] PHP Warning:  Undefined variable $order_font_size_cmd in C:\xampp\htdocs\Print.php on line 807
+[14-Sep-2025 04:38:32 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 04:38:32 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 04:38:32 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 04:38:51 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 04:38:51 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 04:38:51 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 04:39:45 Europe/Berlin] PHP Warning:  Undefined variable $x in C:\xampp\htdocs\Print.php on line 643
+[14-Sep-2025 04:39:45 Europe/Berlin] PHP Warning:  Undefined variable $x in C:\xampp\htdocs\Print.php on line 643
+[14-Sep-2025 04:39:45 Europe/Berlin] PHP Warning:  Undefined variable $x in C:\xampp\htdocs\Print.php on line 643
+[14-Sep-2025 04:39:45 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 04:39:45 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 04:39:45 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 04:40:22 Europe/Berlin] PHP Warning:  Undefined variable $x in C:\xampp\htdocs\Print.php on line 638
+[14-Sep-2025 04:40:22 Europe/Berlin] PHP Warning:  Undefined variable $x in C:\xampp\htdocs\Print.php on line 638
+[14-Sep-2025 04:40:22 Europe/Berlin] PHP Warning:  Undefined variable $x in C:\xampp\htdocs\Print.php on line 638
+[14-Sep-2025 04:40:22 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 04:40:22 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 04:40:22 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 04:40:44 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 04:40:44 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 04:40:45 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 21:58:56 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 21:58:56 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 21:58:59 Europe/Berlin] [v0] PRINT FAILED - Error: Hedef makine etkin olarak reddettiğinden bağlantı kurulamadı
+[14-Sep-2025 21:59:06 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 21:59:06 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 21:59:06 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 22:00:29 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 22:00:29 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 22:00:29 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 22:02:32 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 22:02:32 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 22:02:32 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 22:02:54 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 22:02:54 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 22:02:54 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 22:03:11 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 22:03:11 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 22:03:11 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 22:04:52 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 22:04:52 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 22:04:52 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 22:08:28 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 22:08:28 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 22:08:28 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 22:09:50 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 22:09:50 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 22:09:50 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 22:16:52 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 22:16:52 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 22:16:52 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 22:17:33 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 22:17:33 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 22:17:33 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 22:18:20 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 22:18:20 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 22:18:20 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 22:19:14 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 22:19:14 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 22:19:14 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 22:19:34 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 22:19:34 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 22:19:34 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 22:21:05 Europe/Berlin] [Print.php] Call to undefined function escpos_item_line()
+[14-Sep-2025 22:21:08 Europe/Berlin] [Print.php] Call to undefined function escpos_item_line()
+[14-Sep-2025 22:21:53 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 22:21:53 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 22:21:53 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 22:22:10 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 22:22:10 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 22:22:10 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 22:23:26 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 22:23:26 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 22:23:26 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 22:30:04 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 22:30:04 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 22:30:04 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 22:30:41 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 22:30:41 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 22:30:41 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 22:30:54 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 22:30:54 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 22:30:54 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 22:31:43 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 22:31:43 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 22:31:43 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 22:36:02 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 22:36:02 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 22:36:02 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 22:36:25 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 22:36:25 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 22:36:25 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 22:39:45 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 22:39:45 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 22:39:45 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 22:49:47 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 22:49:47 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 22:49:47 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 22:52:33 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 22:52:33 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 22:52:33 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 22:52:55 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 22:52:55 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 22:52:55 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 22:55:12 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 22:55:12 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 22:55:12 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 22:56:35 Europe/Berlin] [Print.php] trim(): Argument #1 ($string) must be of type string, int given
+[14-Sep-2025 22:56:43 Europe/Berlin] [Print.php] trim(): Argument #1 ($string) must be of type string, int given
+[14-Sep-2025 23:07:06 Europe/Berlin] [Print.php] Call to undefined function escpos_set_pos()
+[14-Sep-2025 23:08:01 Europe/Berlin] [Print.php] Call to undefined function escpos_set_pos()
+[14-Sep-2025 23:08:06 Europe/Berlin] [Print.php] Call to undefined function escpos_set_pos()
+[14-Sep-2025 23:08:13 Europe/Berlin] [v0] PRINT DEBUG - Connection Type: wifi
+[14-Sep-2025 23:08:13 Europe/Berlin] [v0] PRINT DEBUG - WiFi IP Available: 192.168.0.23
+[14-Sep-2025 23:08:13 Europe/Berlin] [v0] PRINT SUCCESS - Used wifi connection directly
+[14-Sep-2025 23:08:44 Europe/Berlin] [Print.php] Call to undefined function escpos_set_pos()
+[14-Sep-2025 23:08:50 Europe/Berlin] [Print.php] Call to undefined function escpos_set_pos()
+[14-Sep-2025 23:19:21 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function socket_create() in C:\xampp\htdocs\Print.php:307
+Stack trace:
+#0 C:\xampp\htdocs\Print.php(69): sendToPrinter('              C...', Array)
+#1 {main}
+  thrown in C:\xampp\htdocs\Print.php on line 307
+[15-Sep-2025 00:05:23 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function socket_create() in C:\xampp\htdocs\Print.php:229
+Stack trace:
+#0 C:\xampp\htdocs\Print.php(198): sendToNetworkPrinter('\e@\ea\x01\x1D!\x11\eE\x01Coff...', Array)
+#1 C:\xampp\htdocs\Print.php(341): sendToPrinter('\e@\ea\x01\x1D!\x11\eE\x01Coff...', Array)
+#2 {main}
+  thrown in C:\xampp\htdocs\Print.php on line 229
+[15-Sep-2025 00:08:27 Europe/Berlin] Print.php Fatal Error: Call to undefined function socket_create()
+[15-Sep-2025 00:08:32 Europe/Berlin] Print.php Fatal Error: Call to undefined function socket_create()
+[15-Sep-2025 00:12:41 Europe/Berlin] URL Parameters - product_id: 250, table_id: 3
+[15-Sep-2025 00:12:41 Europe/Berlin] Product found: Classic Breakfast, Category ID: 35
+[15-Sep-2025 00:12:41 Europe/Berlin] Table found: 3
+[15-Sep-2025 00:12:41 Europe/Berlin] Duplicate records cleaned: 0
+[15-Sep-2025 00:12:41 Europe/Berlin] Product ID: 250, Category ID: 35 has 0 option groups (product + category)
+[15-Sep-2025 00:12:53 Europe/Berlin] URL Parameters - product_id: 251, table_id: 3
+[15-Sep-2025 00:12:53 Europe/Berlin] Product found: English Breakfast, Category ID: 35
+[15-Sep-2025 00:12:53 Europe/Berlin] Table found: 3
+[15-Sep-2025 00:12:53 Europe/Berlin] Duplicate records cleaned: 0
+[15-Sep-2025 00:12:53 Europe/Berlin] Product ID: 251, Category ID: 35 has 0 option groups (product + category)
+[15-Sep-2025 01:22:05 Europe/Berlin] PHP Warning:  Undefined variable $receipt in C:\xampp\htdocs\Print.php on line 108
+[15-Sep-2025 01:22:05 Europe/Berlin] PHP Warning:  Undefined variable $settings in C:\xampp\htdocs\Print.php on line 118
+[15-Sep-2025 01:22:05 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\Print.php on line 118
+[15-Sep-2025 02:10:16 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function getPrinterSettings() in C:\xampp\htdocs\Print.php:5
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\Print.php on line 5
+[15-Sep-2025 02:11:01 Europe/Berlin] PHP Warning:  require_once(print_db.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\Print.php on line 3
+[15-Sep-2025 02:11:01 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'print_db.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\Print.php:3
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\Print.php on line 3
+[15-Sep-2025 02:15:33 Europe/Berlin] PHP Warning:  Undefined variable $receipt in C:\xampp\htdocs\Print.php on line 111
+[15-Sep-2025 02:15:33 Europe/Berlin] PHP Warning:  Undefined variable $settings in C:\xampp\htdocs\Print.php on line 121
+[15-Sep-2025 02:15:33 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\Print.php on line 121
+[15-Sep-2025 02:20:40 Europe/Berlin] PHP Warning:  Undefined variable $companyNameSize in C:\xampp\htdocs\Print.php on line 148
+[15-Sep-2025 02:20:40 Europe/Berlin] PHP Warning:  Undefined variable $companyNameSize in C:\xampp\htdocs\Print.php on line 148
+[15-Sep-2025 02:21:37 Europe/Berlin] PHP Warning:  Undefined variable $companyNameSize in C:\xampp\htdocs\Print.php on line 148
+[15-Sep-2025 02:21:37 Europe/Berlin] PHP Warning:  Undefined variable $companyNameSize in C:\xampp\htdocs\Print.php on line 148
+[15-Sep-2025 02:25:38 Europe/Berlin] PHP Warning:  Undefined variable $receipt in C:\xampp\htdocs\Print.php on line 111
+[15-Sep-2025 02:25:38 Europe/Berlin] PHP Warning:  Undefined variable $settings in C:\xampp\htdocs\Print.php on line 121
+[15-Sep-2025 02:25:38 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\Print.php on line 121
+[16-Sep-2025 14:57:30 Europe/Berlin] URL Parameters - product_id: 250, table_id: 3
+[16-Sep-2025 14:57:30 Europe/Berlin] Product found: Classic Breakfast, Category ID: 35
+[16-Sep-2025 14:57:30 Europe/Berlin] Table found: 3
+[16-Sep-2025 14:57:30 Europe/Berlin] Duplicate records cleaned: 0
+[16-Sep-2025 14:57:30 Europe/Berlin] Product ID: 250, Category ID: 35 has 0 option groups (product + category)
+[16-Sep-2025 22:37:33 Europe/Berlin] URL Parameters - product_id: 486, table_id: 5
+[16-Sep-2025 22:37:33 Europe/Berlin] Product found: Milkshake, Category ID: 59
+[16-Sep-2025 22:37:33 Europe/Berlin] Table found: 5
+[16-Sep-2025 22:37:33 Europe/Berlin] Duplicate records cleaned: 0
+[16-Sep-2025 22:37:33 Europe/Berlin] Product ID: 486, Category ID: 59 has 0 option groups (product + category)
+[16-Sep-2025 22:59:28 Europe/Berlin] URL Parameters - product_id: 470, table_id: 1
+[16-Sep-2025 22:59:32 Europe/Berlin] URL Parameters - product_id: 470, table_id: 1
+[16-Sep-2025 22:59:51 Europe/Berlin] URL Parameters - product_id: 664, table_id: 1
+[16-Sep-2025 22:59:51 Europe/Berlin] Product found: Brunch Breakfast, Category ID: 80
+[16-Sep-2025 22:59:51 Europe/Berlin] Table found: 1
+[16-Sep-2025 22:59:51 Europe/Berlin] Duplicate records cleaned: 0
+[16-Sep-2025 22:59:51 Europe/Berlin] Product ID: 664, Category ID: 80 has 0 option groups (product + category)
+[16-Sep-2025 23:00:41 Europe/Berlin] URL Parameters - product_id: 664, table_id: 1
+[16-Sep-2025 23:00:41 Europe/Berlin] Product found: Brunch Breakfast, Category ID: 80
+[16-Sep-2025 23:00:41 Europe/Berlin] Table found: 1
+[16-Sep-2025 23:00:41 Europe/Berlin] Duplicate records cleaned: 0
+[16-Sep-2025 23:00:41 Europe/Berlin] Product ID: 664, Category ID: 80 has 0 option groups (product + category)
+[16-Sep-2025 23:00:44 Europe/Berlin] URL Parameters - product_id: 664, table_id: 1
+[16-Sep-2025 23:00:44 Europe/Berlin] Product found: Brunch Breakfast, Category ID: 80
+[16-Sep-2025 23:00:44 Europe/Berlin] Table found: 1
+[16-Sep-2025 23:00:44 Europe/Berlin] Duplicate records cleaned: 0
+[16-Sep-2025 23:00:44 Europe/Berlin] Product ID: 664, Category ID: 80 has 0 option groups (product + category)
+[16-Sep-2025 23:01:06 Europe/Berlin] URL Parameters - product_id: 664, table_id: 1
+[16-Sep-2025 23:01:06 Europe/Berlin] Product found: Brunch Breakfast, Category ID: 80
+[16-Sep-2025 23:01:06 Europe/Berlin] Table found: 1
+[16-Sep-2025 23:01:06 Europe/Berlin] Duplicate records cleaned: 0
+[16-Sep-2025 23:01:06 Europe/Berlin] Product ID: 664, Category ID: 80 has 0 option groups (product + category)
