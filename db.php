@@ -8,7 +8,7 @@ ini_set('error_log', __DIR__ . '/php_errors.log');
 $host = 'localhost';
 $dbname = 'if0_38069225_epost';   // mevcut DB adın
 $username = 'root';               // DÜZELTİLDİ: root@localhost değil
-$password = 'memet2151';          // kendi parolan
+$password = 'sifre';          // kendi parolan
 
 $conn = new mysqli($host, $username, $password, $dbname);
 if ($conn->connect_error) {
